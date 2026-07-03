@@ -2,6 +2,7 @@
 // env: DISCORD_WEBHOOK (필수), GEMINI_API_KEY (선택, 없으면 repo description 폴백)
 import fs from 'node:fs';
 import path from 'node:path';
+import { renderCard } from './card.mjs';
 
 const STATE = 'trending/latest.json';      // 직전 실행분(=어제)
 const SNAP_DIR = 'trending/snapshots';     // 일자별 보관
@@ -68,33 +69,55 @@ const prev = loadPrev();
 const prevSet = new Set(prev?.list?.map((x) => x.rep) || []);
 const enteredAI = cur.filter((x) => !prevSet.has(x.rep) && isAI(x));
 
-let payload;
-if (!prev) {
-  payload = { username: 'GitHub Trending', embeds: [{
-    title: `GitHub Trending — ${date} (KST)`, color: 0x2ea043,
-    description: '첫 baseline 저장 완료. 내일부터 신규 진입 AI 레포만 요약해서 보냄.' }] };
-} else if (!enteredAI.length) {
-  payload = { username: 'GitHub Trending', embeds: [{
-    title: `GitHub Trending — ${date} (KST)`, color: 0x8b949e,
-    description: `오늘 신규 진입한 AI 레포 없음 (어제 ${prev.date} 대비).` }] };
-} else {
-  const fields = [];
-  for (const r of enteredAI) {
-    const sum = await geminiSummarize(r);
-    fields.push({
-      name: `🤖 ${r.rep}  +${r.today || '0'} ${r.lang ? `· ${r.lang}` : ''}`,
-      value: `${sum}\nhttps://github.com/${r.rep}`.slice(0, 1024),
-    });
-  }
-  payload = { username: 'GitHub Trending', embeds: [{
-    title: `🆕 신규 AI 트렌딩 — ${date} (KST) · ${enteredAI.length}건`,
-    url: 'https://github.com/trending', color: 0x2ea043, fields,
-    footer: { text: `vs ${prev.date} · claude-ops` } }] };
+async function postJson(payload) {
+  const r = await fetch(WEBHOOK, { method: 'POST',
+    headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
+  if (!r.ok) throw new Error(`discord ${r.status} ${await r.text()}`);
 }
 
-const post = await fetch(WEBHOOK, { method: 'POST',
-  headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
-if (!post.ok) throw new Error(`discord ${post.status} ${await post.text()}`);
+// Discord 메시지당 임베드/첨부 최대 10 → 카드 10장씩 배치. 임베드 url=레포(제목 클릭 링크).
+async function postCardBatch(batch) {
+  const form = new FormData();
+  const embeds = batch.map((it, i) => {
+    const emb = { title: it.rep, url: `https://github.com/${it.rep}`, color: 0x2ea043 };
+    if (it.png) {
+      form.append(`files[${i}]`, new Blob([it.png], { type: 'image/png' }), `card${i}.png`);
+      emb.image = { url: `attachment://card${i}.png` };
+    } else {
+      emb.description = String(it.sum || '').slice(0, 4096);   // 렌더 실패 시 텍스트 폴백
+    }
+    return emb;
+  });
+  form.append('payload_json', JSON.stringify({ username: 'GitHub Trending', embeds }));
+  const r = await fetch(WEBHOOK, { method: 'POST', body: form });
+  if (!r.ok) throw new Error(`discord ${r.status} ${await r.text()}`);
+}
+
+if (!prev) {
+  await postJson({ username: 'GitHub Trending', embeds: [{
+    title: `GitHub Trending — ${date} (KST)`, color: 0x2ea043,
+    description: '첫 baseline 저장 완료. 내일부터 신규 진입 AI 레포만 카드로 보냄.' }] });
+} else if (!enteredAI.length) {
+  await postJson({ username: 'GitHub Trending', embeds: [{
+    title: `GitHub Trending — ${date} (KST)`, color: 0x8b949e,
+    description: `오늘 신규 진입한 AI 레포 없음 (어제 ${prev.date} 대비).` }] });
+} else {
+  // 각 레포: 요약 + 카드 PNG 렌더
+  const items = [];
+  for (const r of enteredAI) {
+    const sum = await geminiSummarize(r);
+    let png = null;
+    try { png = await renderCard({ rep: r.rep, lang: r.lang, today: r.today, sum, date }); }
+    catch (e) { console.error('card render fail', r.rep, e.message); }
+    items.push({ rep: r.rep, sum, png });
+  }
+  // 헤더 임베드 먼저, 이어서 카드 10장씩
+  await postJson({ username: 'GitHub Trending', embeds: [{
+    title: `🆕 신규 AI 트렌딩 — ${date} (KST) · ${enteredAI.length}건`,
+    url: 'https://github.com/trending', color: 0x2ea043,
+    footer: { text: `vs ${prev.date}` } }] });
+  for (let i = 0; i < items.length; i += 10) await postCardBatch(items.slice(i, i + 10));
+}
 console.log(`posted. newAI=${enteredAI.length} total=${cur.length}`);
 
 // 스냅샷 영속화 (다음 diff용 + 일자별)

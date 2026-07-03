@@ -1,0 +1,24 @@
+{
+  "name": "github-trending-ai-digest",
+  "version": "1.0.0",
+  "description": "> GitHub 트렌딩에 **새로 진입한 AI 관련 레포**만 골라 한국어로 요약해 매일 Discord로 보내는 봇. > *A daily bot that detects newly-trending AI repositories on GitHub, summarizes them in Korean, and posts to Discord.*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devpark435/github-trending-ai-digest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devpark435/github-trending-ai-digest/issues"
+  },
+  "homepage": "https://github.com/devpark435/github-trending-ai-digest#readme",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "satori": "^0.26.0"
+  }
+}
