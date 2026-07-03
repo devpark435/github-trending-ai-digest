@@ -8,7 +8,9 @@ const STATE = 'trending/latest.json';      // 직전 실행분(=어제)
 const SNAP_DIR = 'trending/snapshots';     // 일자별 보관
 const WEBHOOK = process.env.DISCORD_WEBHOOK;
 const GEMINI_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL = 'gemini-2.5-flash-lite';
+// flash-lite 우선, 429/503이면 flash(별도 쿼터 버킷)로 폴백
+const GEMINI_MODELS = ['gemini-2.5-flash-lite', 'gemini-2.5-flash'];
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 if (!WEBHOOK) { console.error('DISCORD_WEBHOOK 없음'); process.exit(1); }
 
 // 단어경계 매칭 (maigret 의 'ai' 같은 부분일치 오탐 방지)
@@ -38,22 +40,37 @@ async function fetchTrending(since) {
 
 const isAI = (r) => AI_RE.test(`${r.rep} ${r.lang} ${r.desc}`);
 
+async function geminiOnce(model, prompt) {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${GEMINI_KEY}`;
+  const res = await fetch(url, {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.3, maxOutputTokens: 200, thinkingConfig: { thinkingBudget: 0 } } }),
+  });
+  if (!res.ok) { const e = new Error(`gemini ${res.status}`); e.status = res.status; throw e; }
+  const j = await res.json();
+  return j?.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
+}
+
+// 한국어 요약 보장 목표: 모델 폴백(flash-lite→flash) × 429/503 재시도.
+// 모든 시도 실패 시에만 영문 desc로 폴백(사실상 드물게).
 async function geminiSummarize(r) {
   if (!GEMINI_KEY) return r.desc || '(설명 없음)';
-  try {
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_KEY}`;
-    const prompt = `GitHub 레포를 한국어 한 문장(40자 내외)으로 요약. 과장/홍보 빼고 무엇을 하는지만.\n레포: ${r.rep}\n설명: ${r.desc || '(없음)'}`;
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { temperature: 0.3, maxOutputTokens: 200, thinkingConfig: { thinkingBudget: 0 } } }),
-    });
-    if (!res.ok) { console.error('gemini', res.status, (await res.text()).slice(0,200)); return r.desc || '(설명 없음)'; }
-    const j = await res.json();
-    const t = j?.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
-    return t || r.desc || '(설명 없음)';
-  } catch (e) { console.error('gemini err', e.message); return r.desc || '(설명 없음)'; }
+  const prompt = `GitHub 레포를 한국어 한 문장(40자 내외)으로 요약. 과장/홍보 빼고 무엇을 하는지만.\n레포: ${r.rep}\n설명: ${r.desc || '(없음)'}`;
+  for (const model of GEMINI_MODELS) {
+    for (let attempt = 0; attempt < 3; attempt++) {
+      try {
+        const t = await geminiOnce(model, prompt);
+        if (t) return t;
+        break; // 200인데 빈 텍스트 → 다음 모델로
+      } catch (e) {
+        if (e.status === 429 || e.status === 503) { await sleep(1500 * (attempt + 1)); continue; }
+        console.error('gemini', r.rep, e.message); break; // 그 외 에러 → 다음 모델
+      }
+    }
+  }
+  console.error('gemini 최종 폴백(영문 desc):', r.rep);
+  return r.desc || '(설명 없음)';
 }
 
 function loadPrev() {
@@ -102,7 +119,7 @@ if (!prev) {
     title: `GitHub Trending — ${date} (KST)`, color: 0x8b949e,
     description: `오늘 신규 진입한 AI 레포 없음 (어제 ${prev.date} 대비).` }] });
 } else {
-  // 각 레포: 요약 + 카드 PNG 렌더
+  // 각 레포: 요약 + 카드 PNG 렌더 (호출 간 간격으로 분당 rate limit 회피)
   const items = [];
   for (const r of enteredAI) {
     const sum = await geminiSummarize(r);
@@ -110,12 +127,9 @@ if (!prev) {
     try { png = await renderCard({ rep: r.rep, lang: r.lang, today: r.today, sum, date }); }
     catch (e) { console.error('card render fail', r.rep, e.message); }
     items.push({ rep: r.rep, sum, png });
+    await sleep(600);
   }
-  // 헤더 임베드 먼저, 이어서 카드 10장씩
-  await postJson({ username: 'GitHub Trending', embeds: [{
-    title: `🆕 신규 AI 트렌딩 — ${date} (KST) · ${enteredAI.length}건`,
-    url: 'https://github.com/trending', color: 0x2ea043,
-    footer: { text: `vs ${prev.date}` } }] });
+  // 카드 10장씩 전송 (헤더 임베드 없음 — 카드에 이미 정보 있음)
   for (let i = 0; i < items.length; i += 10) await postCardBatch(items.slice(i, i + 10));
 }
 console.log(`posted. newAI=${enteredAI.length} total=${cur.length}`);
