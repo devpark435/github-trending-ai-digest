@@ -1,80 +1,90 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-03",
   "list": [
     {
-      "rep": "simplex-chat/simplex-chat",
-      "lang": "Haskell",
-      "today": "1,607"
+      "rep": "usestrix/strix",
+      "lang": "Python",
+      "today": "2,137"
+    },
+    {
+      "rep": "JuliusBrussee/caveman",
+      "lang": "JavaScript",
+      "today": "926"
     },
     {
       "rep": "msitarzewski/agency-agents",
       "lang": "Shell",
-      "today": "1,425"
+      "today": "3,032"
     },
     {
-      "rep": "cupy/cupy",
-      "lang": "Python",
-      "today": "352"
-    },
-    {
-      "rep": "altic-dev/FluidVoice",
-      "lang": "Swift",
-      "today": "830"
-    },
-    {
-      "rep": "soxoj/maigret",
-      "lang": "Python",
-      "today": "224"
-    },
-    {
-      "rep": "commaai/openpilot",
-      "lang": "Python",
-      "today": "458"
-    },
-    {
-      "rep": "ripienaar/free-for-dev",
+      "rep": "hasaneyldrm/exercises-dataset",
       "lang": "HTML",
-      "today": "1,935"
+      "today": "938"
     },
     {
-      "rep": "logto-io/logto",
+      "rep": "santifer/career-ops",
+      "lang": "JavaScript",
+      "today": "372"
+    },
+    {
+      "rep": "obra/superpowers",
+      "lang": "Shell",
+      "today": "897"
+    },
+    {
+      "rep": "ChromeDevTools/chrome-devtools-mcp",
       "lang": "TypeScript",
-      "today": "158"
-    },
-    {
-      "rep": "xbtlin/ai-berkshire",
-      "lang": "Python",
-      "today": "1,386"
+      "today": "104"
     },
     {
       "rep": "browser-use/video-use",
       "lang": "Python",
-      "today": "967"
+      "today": "554"
     },
     {
-      "rep": "Unclecheng-li/VulnClaw",
-      "lang": "Python",
-      "today": "129"
+      "rep": "actions/checkout",
+      "lang": "TypeScript",
+      "today": "26"
     },
     {
-      "rep": "0xNyk/council-of-high-intelligence",
-      "lang": "Shell",
-      "today": "331"
+      "rep": "affaan-m/ECC",
+      "lang": "JavaScript",
+      "today": "486"
     },
     {
       "rep": "HKUDS/Vibe-Trading",
       "lang": "Python",
-      "today": "839"
+      "today": "939"
     },
     {
-      "rep": "refactoringhq/tolaria",
-      "lang": "TypeScript",
-      "today": "280"
+      "rep": "agentskills/agentskills",
+      "lang": "Python",
+      "today": "86"
     },
     {
-      "rep": "veracrypt/VeraCrypt",
-      "lang": "C",
-      "today": "186"
+      "rep": "openai/codex-plugin-cc",
+      "lang": "JavaScript",
+      "today": "352"
+    },
+    {
+      "rep": "langflow-ai/langflow",
+      "lang": "Python",
+      "today": "117"
+    },
+    {
+      "rep": "pytorch/pytorch",
+      "lang": "Python",
+      "today": "65"
+    },
+    {
+      "rep": "harvard-edge/cs249r_book",
+      "lang": "Python",
+      "today": "68"
+    },
+    {
+      "rep": "ryanmcdermott/clean-code-javascript",
+      "lang": "JavaScript",
+      "today": "27"
     }
   ]
 }
