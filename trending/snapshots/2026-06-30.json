@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-30",
+  "list": [
+    {
+      "rep": "simplex-chat/simplex-chat",
+      "lang": "Haskell",
+      "today": "1,607"
+    },
+    {
+      "rep": "msitarzewski/agency-agents",
+      "lang": "Shell",
+      "today": "1,425"
+    },
+    {
+      "rep": "cupy/cupy",
+      "lang": "Python",
+      "today": "352"
+    },
+    {
+      "rep": "altic-dev/FluidVoice",
+      "lang": "Swift",
+      "today": "830"
+    },
+    {
+      "rep": "soxoj/maigret",
+      "lang": "Python",
+      "today": "224"
+    },
+    {
+      "rep": "commaai/openpilot",
+      "lang": "Python",
+      "today": "458"
+    },
+    {
+      "rep": "ripienaar/free-for-dev",
+      "lang": "HTML",
+      "today": "1,935"
+    },
+    {
+      "rep": "logto-io/logto",
+      "lang": "TypeScript",
+      "today": "158"
+    },
+    {
+      "rep": "xbtlin/ai-berkshire",
+      "lang": "Python",
+      "today": "1,386"
+    },
+    {
+      "rep": "browser-use/video-use",
+      "lang": "Python",
+      "today": "967"
+    },
+    {
+      "rep": "Unclecheng-li/VulnClaw",
+      "lang": "Python",
+      "today": "129"
+    },
+    {
+      "rep": "0xNyk/council-of-high-intelligence",
+      "lang": "Shell",
+      "today": "331"
+    },
+    {
+      "rep": "HKUDS/Vibe-Trading",
+      "lang": "Python",
+      "today": "839"
+    },
+    {
+      "rep": "refactoringhq/tolaria",
+      "lang": "TypeScript",
+      "today": "280"
+    },
+    {
+      "rep": "veracrypt/VeraCrypt",
+      "lang": "C",
+      "today": "186"
+    }
+  ]
+}

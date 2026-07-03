@@ -1,0 +1,100 @@
+{
+  "date": "2026-07-01",
+  "list": [
+    {
+      "rep": "hasaneyldrm/exercises-dataset",
+      "lang": "HTML",
+      "today": "1,343"
+    },
+    {
+      "rep": "usestrix/strix",
+      "lang": "Python",
+      "today": "515"
+    },
+    {
+      "rep": "msitarzewski/agency-agents",
+      "lang": "Shell",
+      "today": "1,791"
+    },
+    {
+      "rep": "altic-dev/FluidVoice",
+      "lang": "Swift",
+      "today": "588"
+    },
+    {
+      "rep": "diegosouzapw/OmniRoute",
+      "lang": "TypeScript",
+      "today": "387"
+    },
+    {
+      "rep": "browser-use/video-use",
+      "lang": "Python",
+      "today": "721"
+    },
+    {
+      "rep": "xbtlin/ai-berkshire",
+      "lang": "Python",
+      "today": "969"
+    },
+    {
+      "rep": "Mebus/cupp",
+      "lang": "Python",
+      "today": "32"
+    },
+    {
+      "rep": "ripienaar/free-for-dev",
+      "lang": "HTML",
+      "today": "742"
+    },
+    {
+      "rep": "google/agents-cli",
+      "lang": "Python",
+      "today": "445"
+    },
+    {
+      "rep": "roboflow/supervision",
+      "lang": "Python",
+      "today": "309"
+    },
+    {
+      "rep": "ogulcancelik/herdr",
+      "lang": "Rust",
+      "today": "486"
+    },
+    {
+      "rep": "simplex-chat/simplex-chat",
+      "lang": "Haskell",
+      "today": "1,235"
+    },
+    {
+      "rep": "CoreBunch/Instatic",
+      "lang": "TypeScript",
+      "today": "351"
+    },
+    {
+      "rep": "microsoft/AI-For-Beginners",
+      "lang": "Jupyter Notebook",
+      "today": "252"
+    },
+    {
+      "rep": "facebook/astryx",
+      "lang": "TypeScript",
+      "today": "364"
+    },
+    {
+      "rep": "HKUDS/Vibe-Trading",
+      "lang": "Python",
+      "today": "721"
+    },
+    {
+      "rep": "obra/superpowers",
+      "lang": "Shell",
+      "today": "890"
+    },
+    {
+      "rep": "Robbyant/lingbot-map",
+      "lang": "Python",
+      "today": "189"
+    }
+  ]
+}

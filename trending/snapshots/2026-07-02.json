@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-02",
+  "list": [
+    {
+      "rep": "msitarzewski/agency-agents",
+      "lang": "Shell",
+      "today": "2,114"
+    },
+    {
+      "rep": "usestrix/strix",
+      "lang": "Python",
+      "today": "1,211"
+    },
+    {
+      "rep": "HKUDS/Vibe-Trading",
+      "lang": "Python",
+      "today": "694"
+    },
+    {
+      "rep": "hasaneyldrm/exercises-dataset",
+      "lang": "HTML",
+      "today": "2,470"
+    },
+    {
+      "rep": "facebook/astryx",
+      "lang": "TypeScript",
+      "today": "708"
+    },
+    {
+      "rep": "diegosouzapw/OmniRoute",
+      "lang": "TypeScript",
+      "today": "1,010"
+    },
+    {
+      "rep": "allenai/olmocr",
+      "lang": "Python",
+      "today": "334"
+    },
+    {
+      "rep": "logto-io/logto",
+      "lang": "TypeScript",
+      "today": "113"
+    },
+    {
+      "rep": "togatoga/karukan",
+      "lang": "Rust",
+      "today": "42"
+    },
+    {
+      "rep": "Mebus/cupp",
+      "lang": "Python",
+      "today": "184"
+    },
+    {
+      "rep": "Unclecheng-li/VulnClaw",
+      "lang": "Python",
+      "today": "132"
+    },
+    {
+      "rep": "microsoft/AI-For-Beginners",
+      "lang": "Jupyter Notebook",
+      "today": "1,096"
+    },
+    {
+      "rep": "refactoringhq/tolaria",
+      "lang": "TypeScript",
+      "today": "150"
+    },
+    {
+      "rep": "ogulcancelik/herdr",
+      "lang": "Rust",
+      "today": "609"
+    },
+    {
+      "rep": "0xNyk/council-of-high-intelligence",
+      "lang": "Shell",
+      "today": "161"
+    },
+    {
+      "rep": "altic-dev/FluidVoice",
+      "lang": "Swift",
+      "today": "572"
+    },
+    {
+      "rep": "CoreBunch/Instatic",
+      "lang": "TypeScript",
+      "today": "508"
+    },
+    {
+      "rep": "TencentCloud/CubeSandbox",
+      "lang": "Rust",
+      "today": "79"
+    },
+    {
+      "rep": "browser-use/video-use",
+      "lang": "Python",
+      "today": "693"
+    },
+    {
+      "rep": "yikart/AiToEarn",
+      "lang": "TypeScript",
+      "today": "116"
+    }
+  ]
+}

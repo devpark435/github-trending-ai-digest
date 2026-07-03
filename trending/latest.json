@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-03",
+  "list": [
+    {
+      "rep": "usestrix/strix",
+      "lang": "Python",
+      "today": "2,137"
+    },
+    {
+      "rep": "JuliusBrussee/caveman",
+      "lang": "JavaScript",
+      "today": "926"
+    },
+    {
+      "rep": "msitarzewski/agency-agents",
+      "lang": "Shell",
+      "today": "3,032"
+    },
+    {
+      "rep": "hasaneyldrm/exercises-dataset",
+      "lang": "HTML",
+      "today": "938"
+    },
+    {
+      "rep": "santifer/career-ops",
+      "lang": "JavaScript",
+      "today": "372"
+    },
+    {
+      "rep": "obra/superpowers",
+      "lang": "Shell",
+      "today": "897"
+    },
+    {
+      "rep": "ChromeDevTools/chrome-devtools-mcp",
+      "lang": "TypeScript",
+      "today": "104"
+    },
+    {
+      "rep": "browser-use/video-use",
+      "lang": "Python",
+      "today": "554"
+    },
+    {
+      "rep": "actions/checkout",
+      "lang": "TypeScript",
+      "today": "26"
+    },
+    {
+      "rep": "affaan-m/ECC",
+      "lang": "JavaScript",
+      "today": "486"
+    },
+    {
+      "rep": "HKUDS/Vibe-Trading",
+      "lang": "Python",
+      "today": "939"
+    },
+    {
+      "rep": "agentskills/agentskills",
+      "lang": "Python",
+      "today": "86"
+    },
+    {
+      "rep": "openai/codex-plugin-cc",
+      "lang": "JavaScript",
+      "today": "352"
+    },
+    {
+      "rep": "langflow-ai/langflow",
+      "lang": "Python",
+      "today": "117"
+    },
+    {
+      "rep": "pytorch/pytorch",
+      "lang": "Python",
+      "today": "65"
+    },
+    {
+      "rep": "harvard-edge/cs249r_book",
+      "lang": "Python",
+      "today": "68"
+    },
+    {
+      "rep": "ryanmcdermott/clean-code-javascript",
+      "lang": "JavaScript",
+      "today": "27"
+    }
+  ]
+}
