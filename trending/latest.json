@@ -1,60 +1,70 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "list": [
     {
       "rep": "morluto/rea",
       "lang": "TypeScript",
-      "today": "14,927"
+      "today": "25,793"
     },
     {
       "rep": "boykopovar/AnyPS5",
       "lang": "C++",
-      "today": "5,868"
-    },
-    {
-      "rep": "mattpocock/skills",
-      "lang": "Shell",
-      "today": "1,687"
-    },
-    {
-      "rep": "cathrynlavery/diagram-design",
-      "lang": "HTML",
-      "today": "1,739"
-    },
-    {
-      "rep": "alibaba/open-code-review",
-      "lang": "Go",
-      "today": "326"
-    },
-    {
-      "rep": "anthropics/knowledge-work-plugins",
-      "lang": "Python",
-      "today": "709"
-    },
-    {
-      "rep": "BerriAI/litellm",
-      "lang": "Python",
-      "today": "95"
-    },
-    {
-      "rep": "addyosmani/agent-skills",
-      "lang": "JavaScript",
-      "today": "436"
+      "today": "5,805"
     },
     {
       "rep": "storytold/artcraft",
       "lang": "Rust",
-      "today": "3,752"
+      "today": "3,222"
     },
     {
-      "rep": "Robbyant/lingbot-map",
+      "rep": "cathrynlavery/diagram-design",
+      "lang": "HTML",
+      "today": "1,190"
+    },
+    {
+      "rep": "mksglu/context-mode",
+      "lang": "TypeScript",
+      "today": "178"
+    },
+    {
+      "rep": "mattpocock/skills",
+      "lang": "Shell",
+      "today": "1,736"
+    },
+    {
+      "rep": "flutter/flutter",
+      "lang": "Dart",
+      "today": "88"
+    },
+    {
+      "rep": "tensorflow/tensorflow",
+      "lang": "C++",
+      "today": "26"
+    },
+    {
+      "rep": "hugohe3/ppt-master",
       "lang": "Python",
-      "today": "110"
+      "today": "461"
     },
     {
-      "rep": "twostraws/SwiftUI-Agent-Skill",
+      "rep": "pytorch/pytorch",
+      "lang": "Python",
+      "today": "84"
+    },
+    {
+      "rep": "huggingface/transformers",
+      "lang": "Python",
+      "today": "96"
+    },
+    {
+      "rep": "anthropics/knowledge-work-plugins",
+      "lang": "Python",
+      "today": "625"
+    },
+    {
+      "rep": "multica-ai/andrej-karpathy-skills",
       "lang": "",
-      "today": "65"
+      "today": "278"
     }
   ]
 }
