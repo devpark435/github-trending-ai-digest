@@ -1,70 +1,45 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "list": [
     {
       "rep": "morluto/rea",
       "lang": "TypeScript",
-      "today": "25,793"
+      "today": "25,599"
     },
     {
       "rep": "boykopovar/AnyPS5",
       "lang": "C++",
-      "today": "5,805"
+      "today": "3,952"
     },
     {
       "rep": "storytold/artcraft",
       "lang": "Rust",
-      "today": "3,222"
+      "today": "2,957"
     },
     {
       "rep": "cathrynlavery/diagram-design",
       "lang": "HTML",
-      "today": "1,190"
+      "today": "1,083"
     },
     {
-      "rep": "mksglu/context-mode",
-      "lang": "TypeScript",
-      "today": "178"
-    },
-    {
-      "rep": "mattpocock/skills",
-      "lang": "Shell",
-      "today": "1,736"
-    },
-    {
-      "rep": "flutter/flutter",
-      "lang": "Dart",
-      "today": "88"
-    },
-    {
-      "rep": "tensorflow/tensorflow",
-      "lang": "C++",
-      "today": "26"
-    },
-    {
-      "rep": "hugohe3/ppt-master",
-      "lang": "Python",
-      "today": "461"
+      "rep": "bilawalsidhu/gods-eye-view",
+      "lang": "JavaScript",
+      "today": "886"
     },
     {
       "rep": "pytorch/pytorch",
       "lang": "Python",
-      "today": "84"
+      "today": "315"
     },
     {
-      "rep": "huggingface/transformers",
-      "lang": "Python",
-      "today": "96"
+      "rep": "lyogavin/airllm",
+      "lang": "Jupyter Notebook",
+      "today": "548"
     },
     {
-      "rep": "anthropics/knowledge-work-plugins",
-      "lang": "Python",
-      "today": "625"
-    },
-    {
-      "rep": "multica-ai/andrej-karpathy-skills",
-      "lang": "",
-      "today": "278"
+      "rep": "chrislgarry/Apollo-11",
+      "lang": "Assembly",
+      "today": "466"
     }
   ]
 }

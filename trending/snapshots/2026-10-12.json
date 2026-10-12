@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-12",
+  "list": [
+    {
+      "rep": "morluto/rea",
+      "lang": "TypeScript",
+      "today": "25,599"
+    },
+    {
+      "rep": "boykopovar/AnyPS5",
+      "lang": "C++",
+      "today": "3,952"
+    },
+    {
+      "rep": "storytold/artcraft",
+      "lang": "Rust",
+      "today": "2,957"
+    },
+    {
+      "rep": "cathrynlavery/diagram-design",
+      "lang": "HTML",
+      "today": "1,083"
+    },
+    {
+      "rep": "bilawalsidhu/gods-eye-view",
+      "lang": "JavaScript",
+      "today": "886"
+    },
+    {
+      "rep": "pytorch/pytorch",
+      "lang": "Python",
+      "today": "315"
+    },
+    {
+      "rep": "lyogavin/airllm",
+      "lang": "Jupyter Notebook",
+      "today": "548"
+    },
+    {
+      "rep": "chrislgarry/Apollo-11",
+      "lang": "Assembly",
+      "today": "466"
+    }
+  ]
+}
