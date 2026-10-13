@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-13",
+  "list": [
+    {
+      "rep": "morluto/rea",
+      "lang": "TypeScript",
+      "today": "45,327"
+    },
+    {
+      "rep": "bilawalsidhu/gods-eye-view",
+      "lang": "JavaScript",
+      "today": "1,895"
+    },
+    {
+      "rep": "mksglu/context-mode",
+      "lang": "TypeScript",
+      "today": "246"
+    },
+    {
+      "rep": "storytold/artcraft",
+      "lang": "Rust",
+      "today": "4,095"
+    },
+    {
+      "rep": "open-webui/open-webui",
+      "lang": "Python",
+      "today": "157"
+    },
+    {
+      "rep": "cathrynlavery/diagram-design",
+      "lang": "HTML",
+      "today": "2,081"
+    },
+    {
+      "rep": "lyogavin/airllm",
+      "lang": "Jupyter Notebook",
+      "today": "879"
+    },
+    {
+      "rep": "microsoft/BitNet",
+      "lang": "C++",
+      "today": "97"
+    },
+    {
+      "rep": "Alishahryar1/free-claude-code",
+      "lang": "Python",
+      "today": "626"
+    }
+  ]
+}
