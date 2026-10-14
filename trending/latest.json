@@ -1,50 +1,50 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "list": [
     {
       "rep": "morluto/rea",
       "lang": "TypeScript",
-      "today": "45,327"
+      "today": "54,679"
     },
     {
       "rep": "bilawalsidhu/gods-eye-view",
       "lang": "JavaScript",
-      "today": "1,895"
+      "today": "1,961"
+    },
+    {
+      "rep": "debpalash/VoiceStudio",
+      "lang": "Python",
+      "today": "1,748"
     },
     {
       "rep": "mksglu/context-mode",
       "lang": "TypeScript",
-      "today": "246"
-    },
-    {
-      "rep": "storytold/artcraft",
-      "lang": "Rust",
-      "today": "4,095"
-    },
-    {
-      "rep": "open-webui/open-webui",
-      "lang": "Python",
-      "today": "157"
+      "today": "969"
     },
     {
       "rep": "cathrynlavery/diagram-design",
       "lang": "HTML",
-      "today": "2,081"
+      "today": "1,815"
+    },
+    {
+      "rep": "vercel-labs/skills",
+      "lang": "TypeScript",
+      "today": "190"
     },
     {
       "rep": "lyogavin/airllm",
       "lang": "Jupyter Notebook",
-      "today": "879"
+      "today": "1,001"
     },
     {
-      "rep": "microsoft/BitNet",
-      "lang": "C++",
-      "today": "97"
+      "rep": "storytold/artcraft",
+      "lang": "Rust",
+      "today": "4,081"
     },
     {
-      "rep": "Alishahryar1/free-claude-code",
-      "lang": "Python",
-      "today": "626"
+      "rep": "xtool-org/xtool",
+      "lang": "Swift",
+      "today": "1,198"
     }
   ]
 }

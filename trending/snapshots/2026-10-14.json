@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-14",
+  "list": [
+    {
+      "rep": "morluto/rea",
+      "lang": "TypeScript",
+      "today": "54,679"
+    },
+    {
+      "rep": "bilawalsidhu/gods-eye-view",
+      "lang": "JavaScript",
+      "today": "1,961"
+    },
+    {
+      "rep": "debpalash/VoiceStudio",
+      "lang": "Python",
+      "today": "1,748"
+    },
+    {
+      "rep": "mksglu/context-mode",
+      "lang": "TypeScript",
+      "today": "969"
+    },
+    {
+      "rep": "cathrynlavery/diagram-design",
+      "lang": "HTML",
+      "today": "1,815"
+    },
+    {
+      "rep": "vercel-labs/skills",
+      "lang": "TypeScript",
+      "today": "190"
+    },
+    {
+      "rep": "lyogavin/airllm",
+      "lang": "Jupyter Notebook",
+      "today": "1,001"
+    },
+    {
+      "rep": "storytold/artcraft",
+      "lang": "Rust",
+      "today": "4,081"
+    },
+    {
+      "rep": "xtool-org/xtool",
+      "lang": "Swift",
+      "today": "1,198"
+    }
+  ]
+}
