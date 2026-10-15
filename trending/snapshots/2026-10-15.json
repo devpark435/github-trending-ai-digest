@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-15",
+  "list": [
+    {
+      "rep": "morluto/rea",
+      "lang": "TypeScript",
+      "today": "41,034"
+    },
+    {
+      "rep": "debpalash/VoiceStudio",
+      "lang": "Python",
+      "today": "3,538"
+    },
+    {
+      "rep": "mksglu/context-mode",
+      "lang": "TypeScript",
+      "today": "947"
+    },
+    {
+      "rep": "nvm-sh/nvm",
+      "lang": "Shell",
+      "today": "52"
+    },
+    {
+      "rep": "K-Dense-AI/scientific-agent-skills",
+      "lang": "Python",
+      "today": "163"
+    },
+    {
+      "rep": "HKUDS/CLI-Anything",
+      "lang": "Python",
+      "today": "103"
+    },
+    {
+      "rep": "ifixai-ai/iFixAi",
+      "lang": "Python",
+      "today": "2,109"
+    },
+    {
+      "rep": "vxcontrol/pentagi",
+      "lang": "Go",
+      "today": "1,025"
+    },
+    {
+      "rep": "rust-lang/rust",
+      "lang": "Rust",
+      "today": "207"
+    },
+    {
+      "rep": "xtool-org/xtool",
+      "lang": "Swift",
+      "today": "1,502"
+    },
+    {
+      "rep": "ntdevlabs/tiny11builder",
+      "lang": "C#",
+      "today": "139"
+    },
+    {
+      "rep": "NationalSecurityAgency/ghidra",
+      "lang": "Java",
+      "today": "1,008"
+    }
+  ]
+}

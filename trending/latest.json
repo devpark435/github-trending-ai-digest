@@ -1,50 +1,65 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "list": [
     {
       "rep": "morluto/rea",
       "lang": "TypeScript",
-      "today": "54,679"
-    },
-    {
-      "rep": "bilawalsidhu/gods-eye-view",
-      "lang": "JavaScript",
-      "today": "1,961"
+      "today": "41,034"
     },
     {
       "rep": "debpalash/VoiceStudio",
       "lang": "Python",
-      "today": "1,748"
+      "today": "3,538"
     },
     {
       "rep": "mksglu/context-mode",
       "lang": "TypeScript",
-      "today": "969"
+      "today": "947"
     },
     {
-      "rep": "cathrynlavery/diagram-design",
-      "lang": "HTML",
-      "today": "1,815"
+      "rep": "nvm-sh/nvm",
+      "lang": "Shell",
+      "today": "52"
     },
     {
-      "rep": "vercel-labs/skills",
-      "lang": "TypeScript",
-      "today": "190"
+      "rep": "K-Dense-AI/scientific-agent-skills",
+      "lang": "Python",
+      "today": "163"
     },
     {
-      "rep": "lyogavin/airllm",
-      "lang": "Jupyter Notebook",
-      "today": "1,001"
+      "rep": "HKUDS/CLI-Anything",
+      "lang": "Python",
+      "today": "103"
     },
     {
-      "rep": "storytold/artcraft",
+      "rep": "ifixai-ai/iFixAi",
+      "lang": "Python",
+      "today": "2,109"
+    },
+    {
+      "rep": "vxcontrol/pentagi",
+      "lang": "Go",
+      "today": "1,025"
+    },
+    {
+      "rep": "rust-lang/rust",
       "lang": "Rust",
-      "today": "4,081"
+      "today": "207"
     },
     {
       "rep": "xtool-org/xtool",
       "lang": "Swift",
-      "today": "1,198"
+      "today": "1,502"
+    },
+    {
+      "rep": "ntdevlabs/tiny11builder",
+      "lang": "C#",
+      "today": "139"
+    },
+    {
+      "rep": "NationalSecurityAgency/ghidra",
+      "lang": "Java",
+      "today": "1,008"
     }
   ]
 }
