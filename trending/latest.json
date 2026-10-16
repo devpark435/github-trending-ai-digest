@@ -1,65 +1,65 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "list": [
     {
       "rep": "morluto/rea",
       "lang": "TypeScript",
-      "today": "41,034"
+      "today": "32,314"
     },
     {
-      "rep": "debpalash/VoiceStudio",
+      "rep": "anthropics/claude-plugins-official",
       "lang": "Python",
-      "today": "3,538"
-    },
-    {
-      "rep": "mksglu/context-mode",
-      "lang": "TypeScript",
-      "today": "947"
-    },
-    {
-      "rep": "nvm-sh/nvm",
-      "lang": "Shell",
-      "today": "52"
+      "today": "307"
     },
     {
       "rep": "K-Dense-AI/scientific-agent-skills",
       "lang": "Python",
-      "today": "163"
+      "today": "1,091"
     },
     {
-      "rep": "HKUDS/CLI-Anything",
-      "lang": "Python",
-      "today": "103"
-    },
-    {
-      "rep": "ifixai-ai/iFixAi",
-      "lang": "Python",
-      "today": "2,109"
-    },
-    {
-      "rep": "vxcontrol/pentagi",
+      "rep": "JuliusBrussee/caveman",
       "lang": "Go",
-      "today": "1,025"
+      "today": "433"
     },
     {
-      "rep": "rust-lang/rust",
-      "lang": "Rust",
-      "today": "207"
+      "rep": "debpalash/VoiceStudio",
+      "lang": "Python",
+      "today": "3,024"
     },
     {
-      "rep": "xtool-org/xtool",
-      "lang": "Swift",
-      "today": "1,502"
+      "rep": "obra/superpowers",
+      "lang": "Shell",
+      "today": "582"
     },
     {
-      "rep": "ntdevlabs/tiny11builder",
-      "lang": "C#",
-      "today": "139"
+      "rep": "ruvnet/ruflo",
+      "lang": "TypeScript",
+      "today": "147"
+    },
+    {
+      "rep": "mksglu/context-mode",
+      "lang": "TypeScript",
+      "today": "904"
     },
     {
       "rep": "NationalSecurityAgency/ghidra",
       "lang": "Java",
-      "today": "1,008"
+      "today": "1,369"
+    },
+    {
+      "rep": "affaan-m/ECC",
+      "lang": "JavaScript",
+      "today": "1,013"
+    },
+    {
+      "rep": "lightseekorg/tokenspeed",
+      "lang": "Python",
+      "today": "30"
+    },
+    {
+      "rep": "xerj-org/xerj",
+      "lang": "Rust",
+      "today": "715"
     }
   ]
 }
