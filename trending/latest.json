@@ -1,65 +1,70 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "list": [
-    {
-      "rep": "morluto/rea",
-      "lang": "TypeScript",
-      "today": "32,314"
-    },
     {
       "rep": "anthropics/claude-plugins-official",
       "lang": "Python",
-      "today": "307"
+      "today": "1,552"
     },
     {
       "rep": "K-Dense-AI/scientific-agent-skills",
       "lang": "Python",
-      "today": "1,091"
-    },
-    {
-      "rep": "JuliusBrussee/caveman",
-      "lang": "Go",
-      "today": "433"
-    },
-    {
-      "rep": "debpalash/VoiceStudio",
-      "lang": "Python",
-      "today": "3,024"
-    },
-    {
-      "rep": "obra/superpowers",
-      "lang": "Shell",
-      "today": "582"
-    },
-    {
-      "rep": "ruvnet/ruflo",
-      "lang": "TypeScript",
-      "today": "147"
-    },
-    {
-      "rep": "mksglu/context-mode",
-      "lang": "TypeScript",
-      "today": "904"
-    },
-    {
-      "rep": "NationalSecurityAgency/ghidra",
-      "lang": "Java",
-      "today": "1,369"
+      "today": "1,158"
     },
     {
       "rep": "affaan-m/ECC",
       "lang": "JavaScript",
-      "today": "1,013"
+      "today": "1,057"
     },
     {
-      "rep": "lightseekorg/tokenspeed",
+      "rep": "HKUDS/CLI-Anything",
       "lang": "Python",
-      "today": "30"
+      "today": "281"
+    },
+    {
+      "rep": "mksglu/context-mode",
+      "lang": "TypeScript",
+      "today": "449"
+    },
+    {
+      "rep": "ruvnet/ruflo",
+      "lang": "TypeScript",
+      "today": "672"
+    },
+    {
+      "rep": "android/skills",
+      "lang": "Kotlin",
+      "today": "36"
+    },
+    {
+      "rep": "obra/superpowers",
+      "lang": "Shell",
+      "today": "973"
+    },
+    {
+      "rep": "cursor/plugins",
+      "lang": "TypeScript",
+      "today": "278"
+    },
+    {
+      "rep": "debpalash/VoiceStudio",
+      "lang": "Python",
+      "today": "2,301"
+    },
+    {
+      "rep": "MadsLorentzen/ai-job-search",
+      "lang": "Python",
+      "today": "898"
+    },
+    {
+      "rep": "hmjz100/LinkSwift",
+      "lang": "JavaScript",
+      "today": "538"
     },
     {
       "rep": "xerj-org/xerj",
       "lang": "Rust",
-      "today": "715"
+      "today": "1,648"
     }
   ]
 }
