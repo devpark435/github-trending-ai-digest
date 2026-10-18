@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-18",
+  "list": [
+    {
+      "rep": "anthropics/claude-plugins-official",
+      "lang": "Python",
+      "today": "1,397"
+    },
+    {
+      "rep": "MadsLorentzen/ai-job-search",
+      "lang": "Python",
+      "today": "1,365"
+    },
+    {
+      "rep": "affaan-m/ECC",
+      "lang": "JavaScript",
+      "today": "1,145"
+    },
+    {
+      "rep": "HKUDS/CLI-Anything",
+      "lang": "Python",
+      "today": "574"
+    },
+    {
+      "rep": "K-Dense-AI/scientific-agent-skills",
+      "lang": "Python",
+      "today": "878"
+    },
+    {
+      "rep": "akitaonrails/ai-memory",
+      "lang": "Rust",
+      "today": "178"
+    },
+    {
+      "rep": "android/skills",
+      "lang": "Kotlin",
+      "today": "355"
+    },
+    {
+      "rep": "stablyai/orca",
+      "lang": "TypeScript",
+      "today": "830"
+    },
+    {
+      "rep": "anthropics/claude-code",
+      "lang": "TypeScript",
+      "today": "179"
+    },
+    {
+      "rep": "debpalash/VoiceStudio",
+      "lang": "Python",
+      "today": "2,125"
+    },
+    {
+      "rep": "anomalyco/opencode",
+      "lang": "TypeScript",
+      "today": "438"
+    },
+    {
+      "rep": "ruvnet/ruflo",
+      "lang": "TypeScript",
+      "today": "420"
+    },
+    {
+      "rep": "xerj-org/xerj",
+      "lang": "Rust",
+      "today": "1,160"
+    }
+  ]
+}
