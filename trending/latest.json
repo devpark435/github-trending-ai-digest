@@ -1,70 +1,70 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "list": [
-    {
-      "rep": "anthropics/claude-plugins-official",
-      "lang": "Python",
-      "today": "1,397"
-    },
     {
       "rep": "MadsLorentzen/ai-job-search",
       "lang": "Python",
-      "today": "1,365"
+      "today": "2,232"
     },
     {
-      "rep": "affaan-m/ECC",
-      "lang": "JavaScript",
-      "today": "1,145"
-    },
-    {
-      "rep": "HKUDS/CLI-Anything",
+      "rep": "anthropics/claude-plugins-official",
       "lang": "Python",
-      "today": "574"
-    },
-    {
-      "rep": "K-Dense-AI/scientific-agent-skills",
-      "lang": "Python",
-      "today": "878"
-    },
-    {
-      "rep": "akitaonrails/ai-memory",
-      "lang": "Rust",
-      "today": "178"
-    },
-    {
-      "rep": "android/skills",
-      "lang": "Kotlin",
-      "today": "355"
-    },
-    {
-      "rep": "stablyai/orca",
-      "lang": "TypeScript",
-      "today": "830"
-    },
-    {
-      "rep": "anthropics/claude-code",
-      "lang": "TypeScript",
-      "today": "179"
-    },
-    {
-      "rep": "debpalash/VoiceStudio",
-      "lang": "Python",
-      "today": "2,125"
+      "today": "1,175"
     },
     {
       "rep": "anomalyco/opencode",
       "lang": "TypeScript",
-      "today": "438"
+      "today": "1,414"
+    },
+    {
+      "rep": "cursor/plugins",
+      "lang": "TypeScript",
+      "today": "350"
     },
     {
       "rep": "ruvnet/ruflo",
       "lang": "TypeScript",
-      "today": "420"
+      "today": "513"
     },
     {
-      "rep": "xerj-org/xerj",
+      "rep": "akitaonrails/ai-memory",
       "lang": "Rust",
-      "today": "1,160"
+      "today": "512"
+    },
+    {
+      "rep": "stablyai/orca",
+      "lang": "TypeScript",
+      "today": "1,146"
+    },
+    {
+      "rep": "HKUDS/CLI-Anything",
+      "lang": "Python",
+      "today": "589"
+    },
+    {
+      "rep": "debpalash/VoiceStudio",
+      "lang": "Python",
+      "today": "2,082"
+    },
+    {
+      "rep": "android/skills",
+      "lang": "Kotlin",
+      "today": "375"
+    },
+    {
+      "rep": "mlabonne/llm-course",
+      "lang": "",
+      "today": "81"
+    },
+    {
+      "rep": "Kruk2/jasna",
+      "lang": "Python",
+      "today": "115"
+    },
+    {
+      "rep": "Comfy-Org/ComfyUI",
+      "lang": "Python",
+      "today": "154"
     }
   ]
 }
