@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-20",
+  "list": [
+    {
+      "rep": "MadsLorentzen/ai-job-search",
+      "lang": "Python",
+      "today": "3,856"
+    },
+    {
+      "rep": "anomalyco/opencode",
+      "lang": "TypeScript",
+      "today": "1,311"
+    },
+    {
+      "rep": "akitaonrails/ai-memory",
+      "lang": "Rust",
+      "today": "666"
+    },
+    {
+      "rep": "Comfy-Org/ComfyUI",
+      "lang": "Python",
+      "today": "1,011"
+    },
+    {
+      "rep": "ruvnet/ruflo",
+      "lang": "TypeScript",
+      "today": "564"
+    },
+    {
+      "rep": "stablyai/orca",
+      "lang": "TypeScript",
+      "today": "1,590"
+    },
+    {
+      "rep": "headroomlabs-ai/headroom",
+      "lang": "Python",
+      "today": "310"
+    },
+    {
+      "rep": "withmarbleapp/os-taxonomy",
+      "lang": "JavaScript",
+      "today": "284"
+    },
+    {
+      "rep": "Kruk2/jasna",
+      "lang": "Python",
+      "today": "498"
+    },
+    {
+      "rep": "HKUDS/CLI-Anything",
+      "lang": "Python",
+      "today": "606"
+    },
+    {
+      "rep": "anthropics/claude-code",
+      "lang": "TypeScript",
+      "today": "167"
+    },
+    {
+      "rep": "shiyu-coder/Kronos",
+      "lang": "Python",
+      "today": "363"
+    }
+  ]
+}
