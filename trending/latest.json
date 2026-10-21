@@ -1,65 +1,80 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "list": [
     {
       "rep": "MadsLorentzen/ai-job-search",
       "lang": "Python",
-      "today": "3,856"
+      "today": "3,861"
     },
     {
-      "rep": "anomalyco/opencode",
-      "lang": "TypeScript",
-      "today": "1,311"
-    },
-    {
-      "rep": "akitaonrails/ai-memory",
-      "lang": "Rust",
-      "today": "666"
-    },
-    {
-      "rep": "Comfy-Org/ComfyUI",
-      "lang": "Python",
-      "today": "1,011"
-    },
-    {
-      "rep": "ruvnet/ruflo",
-      "lang": "TypeScript",
-      "today": "564"
+      "rep": "cloudflare/security-audit-skill",
+      "lang": "JavaScript",
+      "today": "1,712"
     },
     {
       "rep": "stablyai/orca",
       "lang": "TypeScript",
-      "today": "1,590"
+      "today": "1,565"
+    },
+    {
+      "rep": "DietrichGebert/ponytail",
+      "lang": "JavaScript",
+      "today": "1,208"
+    },
+    {
+      "rep": "Comfy-Org/ComfyUI",
+      "lang": "Python",
+      "today": "1,206"
+    },
+    {
+      "rep": "ruvnet/ruflo",
+      "lang": "TypeScript",
+      "today": "684"
+    },
+    {
+      "rep": "Graphify-Labs/graphify",
+      "lang": "Python",
+      "today": "802"
+    },
+    {
+      "rep": "anomalyco/opencode",
+      "lang": "TypeScript",
+      "today": "1,240"
+    },
+    {
+      "rep": "msitarzewski/agency-agents",
+      "lang": "Shell",
+      "today": "562"
     },
     {
       "rep": "headroomlabs-ai/headroom",
       "lang": "Python",
-      "today": "310"
+      "today": "549"
     },
     {
-      "rep": "withmarbleapp/os-taxonomy",
-      "lang": "JavaScript",
-      "today": "284"
-    },
-    {
-      "rep": "Kruk2/jasna",
+      "rep": "anthropics/knowledge-work-plugins",
       "lang": "Python",
-      "today": "498"
+      "today": "267"
     },
     {
-      "rep": "HKUDS/CLI-Anything",
+      "rep": "wshobson/agents",
       "lang": "Python",
-      "today": "606"
+      "today": "93"
     },
     {
-      "rep": "anthropics/claude-code",
-      "lang": "TypeScript",
-      "today": "167"
+      "rep": "sickn33/agentic-awesome-skills",
+      "lang": "Python",
+      "today": "83"
     },
     {
       "rep": "shiyu-coder/Kronos",
       "lang": "Python",
-      "today": "363"
+      "today": "733"
+    },
+    {
+      "rep": "vllm-project/vllm",
+      "lang": "Python",
+      "today": "128"
     }
   ]
 }
