@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-22",
+  "list": [
+    {
+      "rep": "cloudflare/security-audit-skill",
+      "lang": "JavaScript",
+      "today": "2,012"
+    },
+    {
+      "rep": "vllm-project/vllm",
+      "lang": "Python",
+      "today": "441"
+    },
+    {
+      "rep": "stablyai/orca",
+      "lang": "TypeScript",
+      "today": "1,541"
+    },
+    {
+      "rep": "headroomlabs-ai/headroom",
+      "lang": "Python",
+      "today": "474"
+    },
+    {
+      "rep": "DietrichGebert/ponytail",
+      "lang": "JavaScript",
+      "today": "2,079"
+    },
+    {
+      "rep": "Comfy-Org/ComfyUI",
+      "lang": "Python",
+      "today": "939"
+    },
+    {
+      "rep": "supabase/supabase",
+      "lang": "TypeScript",
+      "today": "504"
+    },
+    {
+      "rep": "twentyhq/twenty",
+      "lang": "TypeScript",
+      "today": "112"
+    },
+    {
+      "rep": "shiyu-coder/Kronos",
+      "lang": "Python",
+      "today": "575"
+    },
+    {
+      "rep": "strelov1/freehire",
+      "lang": "Go",
+      "today": "360"
+    },
+    {
+      "rep": "akitaonrails/ai-memory",
+      "lang": "Rust",
+      "today": "286"
+    },
+    {
+      "rep": "Graphify-Labs/graphify",
+      "lang": "Python",
+      "today": "1,433"
+    }
+  ]
+}
