@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-23",
+  "list": [
+    {
+      "rep": "php/php-src",
+      "lang": "C",
+      "today": "287"
+    },
+    {
+      "rep": "anthropics/knowledge-work-plugins",
+      "lang": "Python",
+      "today": "303"
+    },
+    {
+      "rep": "DietrichGebert/ponytail",
+      "lang": "JavaScript",
+      "today": "1,948"
+    },
+    {
+      "rep": "cloudflare/security-audit-skill",
+      "lang": "JavaScript",
+      "today": "2,979"
+    },
+    {
+      "rep": "Graphify-Labs/graphify",
+      "lang": "Python",
+      "today": "1,408"
+    },
+    {
+      "rep": "supabase/supabase",
+      "lang": "TypeScript",
+      "today": "693"
+    },
+    {
+      "rep": "fastapi/fastapi",
+      "lang": "Python",
+      "today": "101"
+    },
+    {
+      "rep": "luongnv89/claude-howto",
+      "lang": "Python",
+      "today": "177"
+    },
+    {
+      "rep": "Meloong-Git/PCL",
+      "lang": "Visual Basic .NET",
+      "today": "119"
+    }
+  ]
+}
