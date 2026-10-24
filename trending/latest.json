@@ -1,50 +1,45 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "list": [
+    {
+      "rep": "cloudflare/security-audit-skill",
+      "lang": "JavaScript",
+      "today": "2,716"
+    },
     {
       "rep": "php/php-src",
       "lang": "C",
-      "today": "287"
+      "today": "716"
     },
     {
       "rep": "anthropics/knowledge-work-plugins",
       "lang": "Python",
-      "today": "303"
+      "today": "635"
     },
     {
-      "rep": "DietrichGebert/ponytail",
-      "lang": "JavaScript",
-      "today": "1,948"
+      "rep": "NVIDIA/OpenShell",
+      "lang": "Rust",
+      "today": "1,119"
     },
     {
-      "rep": "cloudflare/security-audit-skill",
-      "lang": "JavaScript",
-      "today": "2,979"
-    },
-    {
-      "rep": "Graphify-Labs/graphify",
-      "lang": "Python",
-      "today": "1,408"
-    },
-    {
-      "rep": "supabase/supabase",
+      "rep": "Renhuai123/ziwei-doushu",
       "lang": "TypeScript",
-      "today": "693"
+      "today": "546"
     },
     {
-      "rep": "fastapi/fastapi",
+      "rep": "SnailSploit/Claude-Red",
       "lang": "Python",
-      "today": "101"
+      "today": "226"
     },
     {
-      "rep": "luongnv89/claude-howto",
+      "rep": "OpenBMB/VoxCPM",
       "lang": "Python",
-      "today": "177"
+      "today": "150"
     },
     {
-      "rep": "Meloong-Git/PCL",
-      "lang": "Visual Basic .NET",
-      "today": "119"
+      "rep": "nodejs/node",
+      "lang": "JavaScript",
+      "today": "66"
     }
   ]
 }

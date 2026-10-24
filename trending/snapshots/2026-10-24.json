@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-24",
+  "list": [
+    {
+      "rep": "cloudflare/security-audit-skill",
+      "lang": "JavaScript",
+      "today": "2,716"
+    },
+    {
+      "rep": "php/php-src",
+      "lang": "C",
+      "today": "716"
+    },
+    {
+      "rep": "anthropics/knowledge-work-plugins",
+      "lang": "Python",
+      "today": "635"
+    },
+    {
+      "rep": "NVIDIA/OpenShell",
+      "lang": "Rust",
+      "today": "1,119"
+    },
+    {
+      "rep": "Renhuai123/ziwei-doushu",
+      "lang": "TypeScript",
+      "today": "546"
+    },
+    {
+      "rep": "SnailSploit/Claude-Red",
+      "lang": "Python",
+      "today": "226"
+    },
+    {
+      "rep": "OpenBMB/VoxCPM",
+      "lang": "Python",
+      "today": "150"
+    },
+    {
+      "rep": "nodejs/node",
+      "lang": "JavaScript",
+      "today": "66"
+    }
+  ]
+}
