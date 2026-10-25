@@ -1,45 +1,55 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "list": [
     {
       "rep": "cloudflare/security-audit-skill",
       "lang": "JavaScript",
-      "today": "2,716"
-    },
-    {
-      "rep": "php/php-src",
-      "lang": "C",
-      "today": "716"
-    },
-    {
-      "rep": "anthropics/knowledge-work-plugins",
-      "lang": "Python",
-      "today": "635"
+      "today": "2,264"
     },
     {
       "rep": "NVIDIA/OpenShell",
       "lang": "Rust",
-      "today": "1,119"
+      "today": "896"
     },
     {
-      "rep": "Renhuai123/ziwei-doushu",
+      "rep": "aws/agent-toolkit-for-aws",
+      "lang": "Python",
+      "today": "13"
+    },
+    {
+      "rep": "Nutlope/hallmark",
+      "lang": "CSS",
+      "today": "455"
+    },
+    {
+      "rep": "luongnv89/claude-howto",
+      "lang": "Python",
+      "today": "392"
+    },
+    {
+      "rep": "pbakaus/impeccable",
+      "lang": "Rust",
+      "today": "619"
+    },
+    {
+      "rep": "pollen-robotics/microduck",
+      "lang": "Rust",
+      "today": "319"
+    },
+    {
+      "rep": "google-gemini/gemini-cli",
       "lang": "TypeScript",
-      "today": "546"
+      "today": "44"
     },
     {
-      "rep": "SnailSploit/Claude-Red",
+      "rep": "jbiaojerry/ebook-treasure-chest",
       "lang": "Python",
-      "today": "226"
+      "today": "227"
     },
     {
-      "rep": "OpenBMB/VoxCPM",
-      "lang": "Python",
-      "today": "150"
-    },
-    {
-      "rep": "nodejs/node",
-      "lang": "JavaScript",
-      "today": "66"
+      "rep": "makecindy/cindy",
+      "lang": "TypeScript",
+      "today": "477"
     }
   ]
 }

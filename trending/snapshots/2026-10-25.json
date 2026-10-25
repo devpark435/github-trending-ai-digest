@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-25",
+  "list": [
+    {
+      "rep": "cloudflare/security-audit-skill",
+      "lang": "JavaScript",
+      "today": "2,264"
+    },
+    {
+      "rep": "NVIDIA/OpenShell",
+      "lang": "Rust",
+      "today": "896"
+    },
+    {
+      "rep": "aws/agent-toolkit-for-aws",
+      "lang": "Python",
+      "today": "13"
+    },
+    {
+      "rep": "Nutlope/hallmark",
+      "lang": "CSS",
+      "today": "455"
+    },
+    {
+      "rep": "luongnv89/claude-howto",
+      "lang": "Python",
+      "today": "392"
+    },
+    {
+      "rep": "pbakaus/impeccable",
+      "lang": "Rust",
+      "today": "619"
+    },
+    {
+      "rep": "pollen-robotics/microduck",
+      "lang": "Rust",
+      "today": "319"
+    },
+    {
+      "rep": "google-gemini/gemini-cli",
+      "lang": "TypeScript",
+      "today": "44"
+    },
+    {
+      "rep": "jbiaojerry/ebook-treasure-chest",
+      "lang": "Python",
+      "today": "227"
+    },
+    {
+      "rep": "makecindy/cindy",
+      "lang": "TypeScript",
+      "today": "477"
+    }
+  ]
+}
