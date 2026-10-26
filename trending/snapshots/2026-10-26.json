@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-26",
+  "list": [
+    {
+      "rep": "makecindy/cindy",
+      "lang": "TypeScript",
+      "today": "675"
+    },
+    {
+      "rep": "Nutlope/hallmark",
+      "lang": "CSS",
+      "today": "1,317"
+    },
+    {
+      "rep": "debpalash/VoiceStudio",
+      "lang": "Python",
+      "today": "1,592"
+    },
+    {
+      "rep": "pbakaus/impeccable",
+      "lang": "Rust",
+      "today": "1,092"
+    },
+    {
+      "rep": "pollen-robotics/microduck",
+      "lang": "Rust",
+      "today": "647"
+    },
+    {
+      "rep": "TauricResearch/TradingAgents",
+      "lang": "Python",
+      "today": "381"
+    },
+    {
+      "rep": "Renhuai123/ziwei-doushu",
+      "lang": "TypeScript",
+      "today": "199"
+    },
+    {
+      "rep": "JetBrains/thinkrail",
+      "lang": "TypeScript",
+      "today": "51"
+    },
+    {
+      "rep": "coollabsio/coolify",
+      "lang": "PHP",
+      "today": "152"
+    },
+    {
+      "rep": "cloudflare/security-audit-skill",
+      "lang": "JavaScript",
+      "today": "2,878"
+    },
+    {
+      "rep": "AgriciDaniel/claude-seo",
+      "lang": "Python",
+      "today": "197"
+    }
+  ]
+}

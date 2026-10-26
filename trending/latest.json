@@ -1,55 +1,60 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "list": [
     {
-      "rep": "cloudflare/security-audit-skill",
-      "lang": "JavaScript",
-      "today": "2,264"
-    },
-    {
-      "rep": "NVIDIA/OpenShell",
-      "lang": "Rust",
-      "today": "896"
-    },
-    {
-      "rep": "aws/agent-toolkit-for-aws",
-      "lang": "Python",
-      "today": "13"
+      "rep": "makecindy/cindy",
+      "lang": "TypeScript",
+      "today": "675"
     },
     {
       "rep": "Nutlope/hallmark",
       "lang": "CSS",
-      "today": "455"
+      "today": "1,317"
     },
     {
-      "rep": "luongnv89/claude-howto",
+      "rep": "debpalash/VoiceStudio",
       "lang": "Python",
-      "today": "392"
+      "today": "1,592"
     },
     {
       "rep": "pbakaus/impeccable",
       "lang": "Rust",
-      "today": "619"
+      "today": "1,092"
     },
     {
       "rep": "pollen-robotics/microduck",
       "lang": "Rust",
-      "today": "319"
+      "today": "647"
     },
     {
-      "rep": "google-gemini/gemini-cli",
-      "lang": "TypeScript",
-      "today": "44"
-    },
-    {
-      "rep": "jbiaojerry/ebook-treasure-chest",
+      "rep": "TauricResearch/TradingAgents",
       "lang": "Python",
-      "today": "227"
+      "today": "381"
     },
     {
-      "rep": "makecindy/cindy",
+      "rep": "Renhuai123/ziwei-doushu",
       "lang": "TypeScript",
-      "today": "477"
+      "today": "199"
+    },
+    {
+      "rep": "JetBrains/thinkrail",
+      "lang": "TypeScript",
+      "today": "51"
+    },
+    {
+      "rep": "coollabsio/coolify",
+      "lang": "PHP",
+      "today": "152"
+    },
+    {
+      "rep": "cloudflare/security-audit-skill",
+      "lang": "JavaScript",
+      "today": "2,878"
+    },
+    {
+      "rep": "AgriciDaniel/claude-seo",
+      "lang": "Python",
+      "today": "197"
     }
   ]
 }
