@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-27",
+  "list": [
+    {
+      "rep": "Nutlope/hallmark",
+      "lang": "CSS",
+      "today": "2,244"
+    },
+    {
+      "rep": "TauricResearch/TradingAgents",
+      "lang": "Python",
+      "today": "1,395"
+    },
+    {
+      "rep": "JetBrains/thinkrail",
+      "lang": "TypeScript",
+      "today": "1,173"
+    },
+    {
+      "rep": "makecindy/cindy",
+      "lang": "TypeScript",
+      "today": "1,296"
+    },
+    {
+      "rep": "affaan-m/ECC",
+      "lang": "JavaScript",
+      "today": "896"
+    },
+    {
+      "rep": "pbakaus/impeccable",
+      "lang": "Rust",
+      "today": "1,506"
+    },
+    {
+      "rep": "NVIDIA/SkillSpector",
+      "lang": "Python",
+      "today": "214"
+    },
+    {
+      "rep": "pollen-robotics/microduck",
+      "lang": "Rust",
+      "today": "843"
+    },
+    {
+      "rep": "nightly-labs/openbot",
+      "lang": "TypeScript",
+      "today": "176"
+    },
+    {
+      "rep": "Panniantong/Agent-Reach",
+      "lang": "Python",
+      "today": "746"
+    },
+    {
+      "rep": "debpalash/VoiceStudio",
+      "lang": "Python",
+      "today": "2,297"
+    },
+    {
+      "rep": "gitroomhq/postiz-app",
+      "lang": "TypeScript",
+      "today": "188"
+    },
+    {
+      "rep": "alchaincyf/huashu-design",
+      "lang": "HTML",
+      "today": "251"
+    },
+    {
+      "rep": "multica-ai/andrej-karpathy-skills",
+      "lang": "",
+      "today": "638"
+    }
+  ]
+}
