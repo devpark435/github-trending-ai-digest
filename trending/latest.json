@@ -1,75 +1,60 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "list": [
     {
-      "rep": "Nutlope/hallmark",
-      "lang": "CSS",
-      "today": "2,244"
-    },
-    {
-      "rep": "TauricResearch/TradingAgents",
-      "lang": "Python",
+      "rep": "elayadesign/ai-design-skills",
+      "lang": "",
       "today": "1,395"
     },
     {
-      "rep": "JetBrains/thinkrail",
-      "lang": "TypeScript",
-      "today": "1,173"
-    },
-    {
-      "rep": "makecindy/cindy",
-      "lang": "TypeScript",
-      "today": "1,296"
-    },
-    {
-      "rep": "affaan-m/ECC",
-      "lang": "JavaScript",
-      "today": "896"
-    },
-    {
-      "rep": "pbakaus/impeccable",
-      "lang": "Rust",
-      "today": "1,506"
-    },
-    {
-      "rep": "NVIDIA/SkillSpector",
-      "lang": "Python",
-      "today": "214"
-    },
-    {
-      "rep": "pollen-robotics/microduck",
-      "lang": "Rust",
-      "today": "843"
+      "rep": "Nutlope/hallmark",
+      "lang": "CSS",
+      "today": "2,830"
     },
     {
       "rep": "nightly-labs/openbot",
       "lang": "TypeScript",
-      "today": "176"
+      "today": "777"
     },
     {
-      "rep": "Panniantong/Agent-Reach",
-      "lang": "Python",
-      "today": "746"
+      "rep": "obra/superpowers",
+      "lang": "Shell",
+      "today": "617"
     },
     {
-      "rep": "debpalash/VoiceStudio",
-      "lang": "Python",
-      "today": "2,297"
+      "rep": "pbakaus/impeccable",
+      "lang": "Rust",
+      "today": "1,449"
+    },
+    {
+      "rep": "makecindy/cindy",
+      "lang": "TypeScript",
+      "today": "1,465"
     },
     {
       "rep": "gitroomhq/postiz-app",
       "lang": "TypeScript",
-      "today": "188"
+      "today": "951"
     },
     {
-      "rep": "alchaincyf/huashu-design",
-      "lang": "HTML",
-      "today": "251"
+      "rep": "affaan-m/ECC",
+      "lang": "JavaScript",
+      "today": "1,165"
     },
     {
-      "rep": "multica-ai/andrej-karpathy-skills",
+      "rep": "HKUDS/DeepTutor",
+      "lang": "Python",
+      "today": "1,598"
+    },
+    {
+      "rep": "JetBrains/thinkrail",
+      "lang": "TypeScript",
+      "today": "1,204"
+    },
+    {
+      "rep": "togg53192-cmd/jailbreaks",
       "lang": "",
-      "today": "638"
+      "today": "902"
     }
   ]
 }
