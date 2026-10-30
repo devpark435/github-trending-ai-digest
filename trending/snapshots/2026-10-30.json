@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-30",
+  "list": [
+    {
+      "rep": "HKUDS/DeepTutor",
+      "lang": "Python",
+      "today": "1,930"
+    },
+    {
+      "rep": "obra/superpowers",
+      "lang": "Shell",
+      "today": "1,034"
+    },
+    {
+      "rep": "pbakaus/impeccable",
+      "lang": "Rust",
+      "today": "2,870"
+    },
+    {
+      "rep": "JetBrains/thinkrail",
+      "lang": "TypeScript",
+      "today": "1,117"
+    },
+    {
+      "rep": "milind-soni/OpenMausBot",
+      "lang": "TypeScript",
+      "today": "1,199"
+    },
+    {
+      "rep": "nightly-labs/openbot",
+      "lang": "TypeScript",
+      "today": "709"
+    },
+    {
+      "rep": "elayadesign/ai-design-skills",
+      "lang": "",
+      "today": "1,187"
+    },
+    {
+      "rep": "thedotmack/claude-mem",
+      "lang": "TypeScript",
+      "today": "336"
+    },
+    {
+      "rep": "CopilotKit/OpenBot",
+      "lang": "TypeScript",
+      "today": "247"
+    },
+    {
+      "rep": "togg53192-cmd/jailbreaks",
+      "lang": "",
+      "today": "1,594"
+    },
+    {
+      "rep": "Donchitos/Claude-Code-Game-Studios",
+      "lang": "Shell",
+      "today": "353"
+    }
+  ]
+}

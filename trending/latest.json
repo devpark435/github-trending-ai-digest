@@ -1,75 +1,60 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "list": [
     {
-      "rep": "JetBrains/thinkrail",
-      "lang": "TypeScript",
-      "today": "1,068"
-    },
-    {
-      "rep": "elayadesign/ai-design-skills",
-      "lang": "",
-      "today": "2,139"
+      "rep": "HKUDS/DeepTutor",
+      "lang": "Python",
+      "today": "1,930"
     },
     {
       "rep": "obra/superpowers",
       "lang": "Shell",
-      "today": "1,095"
-    },
-    {
-      "rep": "HKUDS/DeepTutor",
-      "lang": "Python",
-      "today": "2,371"
-    },
-    {
-      "rep": "macro-inc/macro",
-      "lang": "Rust",
-      "today": "117"
-    },
-    {
-      "rep": "Nutlope/hallmark",
-      "lang": "CSS",
-      "today": "2,110"
+      "today": "1,034"
     },
     {
       "rep": "pbakaus/impeccable",
       "lang": "Rust",
-      "today": "1,472"
+      "today": "2,870"
     },
     {
-      "rep": "makecindy/cindy",
+      "rep": "JetBrains/thinkrail",
       "lang": "TypeScript",
-      "today": "728"
+      "today": "1,117"
+    },
+    {
+      "rep": "milind-soni/OpenMausBot",
+      "lang": "TypeScript",
+      "today": "1,199"
     },
     {
       "rep": "nightly-labs/openbot",
       "lang": "TypeScript",
-      "today": "1,054"
+      "today": "709"
+    },
+    {
+      "rep": "elayadesign/ai-design-skills",
+      "lang": "",
+      "today": "1,187"
+    },
+    {
+      "rep": "thedotmack/claude-mem",
+      "lang": "TypeScript",
+      "today": "336"
+    },
+    {
+      "rep": "CopilotKit/OpenBot",
+      "lang": "TypeScript",
+      "today": "247"
     },
     {
       "rep": "togg53192-cmd/jailbreaks",
       "lang": "",
-      "today": "1,477"
+      "today": "1,594"
     },
     {
-      "rep": "hmjz100/LinkSwift",
-      "lang": "JavaScript",
-      "today": "1,616"
-    },
-    {
-      "rep": "expo/skills",
+      "rep": "Donchitos/Claude-Code-Game-Studios",
       "lang": "Shell",
-      "today": "90"
-    },
-    {
-      "rep": "ruvnet/RuView",
-      "lang": "Rust",
-      "today": "557"
-    },
-    {
-      "rep": "xiaolai/the-craft-of-selfteaching",
-      "lang": "Jupyter Notebook",
-      "today": "148"
+      "today": "353"
     }
   ]
 }
