@@ -1,60 +1,80 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "list": [
     {
-      "rep": "HKUDS/DeepTutor",
-      "lang": "Python",
-      "today": "1,930"
-    },
-    {
-      "rep": "obra/superpowers",
-      "lang": "Shell",
-      "today": "1,034"
-    },
-    {
-      "rep": "pbakaus/impeccable",
-      "lang": "Rust",
-      "today": "2,870"
-    },
-    {
-      "rep": "JetBrains/thinkrail",
+      "rep": "thedotmack/claude-mem",
       "lang": "TypeScript",
-      "today": "1,117"
+      "today": "1,140"
     },
     {
       "rep": "milind-soni/OpenMausBot",
       "lang": "TypeScript",
-      "today": "1,199"
+      "today": "895"
     },
     {
-      "rep": "nightly-labs/openbot",
-      "lang": "TypeScript",
-      "today": "709"
-    },
-    {
-      "rep": "elayadesign/ai-design-skills",
-      "lang": "",
-      "today": "1,187"
-    },
-    {
-      "rep": "thedotmack/claude-mem",
-      "lang": "TypeScript",
-      "today": "336"
+      "rep": "pbakaus/impeccable",
+      "lang": "Rust",
+      "today": "2,300"
     },
     {
       "rep": "CopilotKit/OpenBot",
       "lang": "TypeScript",
-      "today": "247"
+      "today": "706"
+    },
+    {
+      "rep": "Renhuai123/ziwei-doushu",
+      "lang": "TypeScript",
+      "today": "1,126"
+    },
+    {
+      "rep": "expo/skills",
+      "lang": "Shell",
+      "today": "38"
+    },
+    {
+      "rep": "macro-inc/macro",
+      "lang": "Rust",
+      "today": "57"
+    },
+    {
+      "rep": "mattpocock/skills",
+      "lang": "Shell",
+      "today": "876"
+    },
+    {
+      "rep": "pingdotgg/t3code",
+      "lang": "TypeScript",
+      "today": "930"
+    },
+    {
+      "rep": "HKUDS/DeepTutor",
+      "lang": "Python",
+      "today": "2,282"
+    },
+    {
+      "rep": "anthropics/skills",
+      "lang": "Python",
+      "today": "295"
+    },
+    {
+      "rep": "JetBrains/thinkrail",
+      "lang": "TypeScript",
+      "today": "722"
     },
     {
       "rep": "togg53192-cmd/jailbreaks",
       "lang": "",
-      "today": "1,594"
+      "today": "2,055"
     },
     {
-      "rep": "Donchitos/Claude-Code-Game-Studios",
+      "rep": "obra/superpowers",
       "lang": "Shell",
-      "today": "353"
+      "today": "1,259"
+    },
+    {
+      "rep": "lightpanda-io/browser",
+      "lang": "Zig",
+      "today": "626"
     }
   ]
 }
