@@ -1,80 +1,75 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "list": [
     {
       "rep": "thedotmack/claude-mem",
       "lang": "TypeScript",
-      "today": "1,140"
-    },
-    {
-      "rep": "milind-soni/OpenMausBot",
-      "lang": "TypeScript",
-      "today": "895"
-    },
-    {
-      "rep": "pbakaus/impeccable",
-      "lang": "Rust",
-      "today": "2,300"
-    },
-    {
-      "rep": "CopilotKit/OpenBot",
-      "lang": "TypeScript",
-      "today": "706"
-    },
-    {
-      "rep": "Renhuai123/ziwei-doushu",
-      "lang": "TypeScript",
-      "today": "1,126"
-    },
-    {
-      "rep": "expo/skills",
-      "lang": "Shell",
-      "today": "38"
-    },
-    {
-      "rep": "macro-inc/macro",
-      "lang": "Rust",
-      "today": "57"
+      "today": "1,723"
     },
     {
       "rep": "mattpocock/skills",
       "lang": "Shell",
-      "today": "876"
+      "today": "883"
+    },
+    {
+      "rep": "Donchitos/Claude-Code-Game-Studios",
+      "lang": "Shell",
+      "today": "742"
     },
     {
       "rep": "pingdotgg/t3code",
       "lang": "TypeScript",
-      "today": "930"
+      "today": "1,148"
     },
     {
-      "rep": "HKUDS/DeepTutor",
-      "lang": "Python",
-      "today": "2,282"
-    },
-    {
-      "rep": "anthropics/skills",
-      "lang": "Python",
-      "today": "295"
-    },
-    {
-      "rep": "JetBrains/thinkrail",
+      "rep": "Renhuai123/ziwei-doushu",
       "lang": "TypeScript",
-      "today": "722"
+      "today": "1,092"
     },
     {
-      "rep": "togg53192-cmd/jailbreaks",
-      "lang": "",
-      "today": "2,055"
+      "rep": "milind-soni/OpenMausBot",
+      "lang": "TypeScript",
+      "today": "1,303"
+    },
+    {
+      "rep": "pbakaus/impeccable",
+      "lang": "Rust",
+      "today": "1,338"
     },
     {
       "rep": "obra/superpowers",
       "lang": "Shell",
-      "today": "1,259"
+      "today": "665"
     },
     {
       "rep": "lightpanda-io/browser",
       "lang": "Zig",
-      "today": "626"
+      "today": "929"
+    },
+    {
+      "rep": "HKUDS/DeepTutor",
+      "lang": "Python",
+      "today": "1,034"
+    },
+    {
+      "rep": "Orkas-AI/Orkas",
+      "lang": "JavaScript",
+      "today": "1,044"
+    },
+    {
+      "rep": "THU-MAIC/OpenMAIC",
+      "lang": "TypeScript",
+      "today": "116"
+    },
+    {
+      "rep": "bregman-arie/devops-exercises",
+      "lang": "Python",
+      "today": "342"
+    },
+    {
+      "rep": "vorssaint/vorssaint-utils",
+      "lang": "Swift",
+      "today": "501"
     }
   ]
 }

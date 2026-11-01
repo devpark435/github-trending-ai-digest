@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-01",
+  "list": [
+    {
+      "rep": "thedotmack/claude-mem",
+      "lang": "TypeScript",
+      "today": "1,723"
+    },
+    {
+      "rep": "mattpocock/skills",
+      "lang": "Shell",
+      "today": "883"
+    },
+    {
+      "rep": "Donchitos/Claude-Code-Game-Studios",
+      "lang": "Shell",
+      "today": "742"
+    },
+    {
+      "rep": "pingdotgg/t3code",
+      "lang": "TypeScript",
+      "today": "1,148"
+    },
+    {
+      "rep": "Renhuai123/ziwei-doushu",
+      "lang": "TypeScript",
+      "today": "1,092"
+    },
+    {
+      "rep": "milind-soni/OpenMausBot",
+      "lang": "TypeScript",
+      "today": "1,303"
+    },
+    {
+      "rep": "pbakaus/impeccable",
+      "lang": "Rust",
+      "today": "1,338"
+    },
+    {
+      "rep": "obra/superpowers",
+      "lang": "Shell",
+      "today": "665"
+    },
+    {
+      "rep": "lightpanda-io/browser",
+      "lang": "Zig",
+      "today": "929"
+    },
+    {
+      "rep": "HKUDS/DeepTutor",
+      "lang": "Python",
+      "today": "1,034"
+    },
+    {
+      "rep": "Orkas-AI/Orkas",
+      "lang": "JavaScript",
+      "today": "1,044"
+    },
+    {
+      "rep": "THU-MAIC/OpenMAIC",
+      "lang": "TypeScript",
+      "today": "116"
+    },
+    {
+      "rep": "bregman-arie/devops-exercises",
+      "lang": "Python",
+      "today": "342"
+    },
+    {
+      "rep": "vorssaint/vorssaint-utils",
+      "lang": "Swift",
+      "today": "501"
+    }
+  ]
+}
