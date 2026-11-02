@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-02",
+  "list": [
+    {
+      "rep": "thedotmack/claude-mem",
+      "lang": "TypeScript",
+      "today": "1,526"
+    },
+    {
+      "rep": "lightpanda-io/browser",
+      "lang": "Zig",
+      "today": "825"
+    },
+    {
+      "rep": "shiyu-coder/Kronos",
+      "lang": "Python",
+      "today": "630"
+    },
+    {
+      "rep": "pingdotgg/t3code",
+      "lang": "TypeScript",
+      "today": "3,094"
+    },
+    {
+      "rep": "milind-soni/OpenMausBot",
+      "lang": "TypeScript",
+      "today": "922"
+    },
+    {
+      "rep": "public-apis/public-apis",
+      "lang": "Python",
+      "today": "324"
+    },
+    {
+      "rep": "cjpais/Handy",
+      "lang": "Rust",
+      "today": "339"
+    },
+    {
+      "rep": "Donchitos/Claude-Code-Game-Studios",
+      "lang": "Shell",
+      "today": "967"
+    },
+    {
+      "rep": "kornia/kornia",
+      "lang": "Python",
+      "today": "101"
+    },
+    {
+      "rep": "beenuar/AiSOC",
+      "lang": "Python",
+      "today": "446"
+    },
+    {
+      "rep": "Renhuai123/ziwei-doushu",
+      "lang": "TypeScript",
+      "today": "941"
+    },
+    {
+      "rep": "anomalyco/hex",
+      "lang": "Rust",
+      "today": "1,179"
+    },
+    {
+      "rep": "CopilotKit/OpenBot",
+      "lang": "TypeScript",
+      "today": "175"
+    },
+    {
+      "rep": "togg53192-cmd/jailbreaks",
+      "lang": "",
+      "today": "726"
+    },
+    {
+      "rep": "patchy631/ai-engineering-hub",
+      "lang": "Jupyter Notebook",
+      "today": "1,191"
+    },
+    {
+      "rep": "FlashML-org/FreeToken",
+      "lang": "Python",
+      "today": "242"
+    },
+    {
+      "rep": "hyprwm/Hyprland",
+      "lang": "C++",
+      "today": "38"
+    }
+  ]
+}
