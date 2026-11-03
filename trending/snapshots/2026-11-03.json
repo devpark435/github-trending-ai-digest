@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-03",
+  "list": [
+    {
+      "rep": "vercel-labs/agent-desktop",
+      "lang": "Rust",
+      "today": "2,275"
+    },
+    {
+      "rep": "thedotmack/claude-mem",
+      "lang": "TypeScript",
+      "today": "1,803"
+    },
+    {
+      "rep": "D4Vinci/Scrapling",
+      "lang": "Python",
+      "today": "706"
+    },
+    {
+      "rep": "hyprwm/Hyprland",
+      "lang": "C++",
+      "today": "509"
+    },
+    {
+      "rep": "Donchitos/Claude-Code-Game-Studios",
+      "lang": "Shell",
+      "today": "1,379"
+    },
+    {
+      "rep": "FlashML-org/FreeToken",
+      "lang": "Python",
+      "today": "653"
+    },
+    {
+      "rep": "pingdotgg/t3code",
+      "lang": "TypeScript",
+      "today": "3,229"
+    },
+    {
+      "rep": "shiyu-coder/Kronos",
+      "lang": "Python",
+      "today": "857"
+    },
+    {
+      "rep": "kornia/kornia",
+      "lang": "Python",
+      "today": "412"
+    },
+    {
+      "rep": "JustVugg/colibri",
+      "lang": "C",
+      "today": "675"
+    },
+    {
+      "rep": "mattpocock/skills",
+      "lang": "Shell",
+      "today": "858"
+    },
+    {
+      "rep": "max-sixty/worktrunk",
+      "lang": "Rust",
+      "today": "77"
+    },
+    {
+      "rep": "paperclipai/paperclip",
+      "lang": "TypeScript",
+      "today": "412"
+    },
+    {
+      "rep": "karpathy/nanochat",
+      "lang": "Python",
+      "today": "321"
+    },
+    {
+      "rep": "p-e-w/heretic",
+      "lang": "Python",
+      "today": "420"
+    }
+  ]
+}
