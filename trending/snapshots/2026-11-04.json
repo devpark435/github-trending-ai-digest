@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-04",
+  "list": [
+    {
+      "rep": "thedotmack/claude-mem",
+      "lang": "TypeScript",
+      "today": "1,139"
+    },
+    {
+      "rep": "vercel-labs/agent-desktop",
+      "lang": "Rust",
+      "today": "3,791"
+    },
+    {
+      "rep": "max-sixty/worktrunk",
+      "lang": "Rust",
+      "today": "438"
+    },
+    {
+      "rep": "JustVugg/colibri",
+      "lang": "C",
+      "today": "802"
+    },
+    {
+      "rep": "mattpocock/skills",
+      "lang": "Shell",
+      "today": "1,164"
+    },
+    {
+      "rep": "p-e-w/heretic",
+      "lang": "Python",
+      "today": "701"
+    },
+    {
+      "rep": "spotify/portal-ai-plugins",
+      "lang": "TypeScript",
+      "today": "91"
+    },
+    {
+      "rep": "floci-io/floci",
+      "lang": "Java",
+      "today": "482"
+    },
+    {
+      "rep": "Usagi-org/ai-goofish-monitor",
+      "lang": "Python",
+      "today": "228"
+    },
+    {
+      "rep": "anomalyco/hex",
+      "lang": "Rust",
+      "today": "410"
+    },
+    {
+      "rep": "D4Vinci/Scrapling",
+      "lang": "Python",
+      "today": "1,658"
+    },
+    {
+      "rep": "shiyu-coder/Kronos",
+      "lang": "Python",
+      "today": "503"
+    },
+    {
+      "rep": "Donchitos/Claude-Code-Game-Studios",
+      "lang": "Shell",
+      "today": "1,182"
+    }
+  ]
+}
