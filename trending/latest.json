@@ -1,85 +1,80 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "list": [
     {
       "rep": "NVIDIA/auto-ontology",
       "lang": "Python",
-      "today": "2,050"
-    },
-    {
-      "rep": "max-sixty/worktrunk",
-      "lang": "Rust",
-      "today": "531"
+      "today": "2,679"
     },
     {
       "rep": "mattpocock/skills",
       "lang": "Shell",
-      "today": "1,379"
-    },
-    {
-      "rep": "floci-io/floci",
-      "lang": "Java",
-      "today": "1,090"
-    },
-    {
-      "rep": "thedotmack/claude-mem",
-      "lang": "TypeScript",
-      "today": "1,172"
-    },
-    {
-      "rep": "vercel-labs/agent-desktop",
-      "lang": "Rust",
-      "today": "2,470"
-    },
-    {
-      "rep": "github/spec-kit",
-      "lang": "Python",
-      "today": "808"
-    },
-    {
-      "rep": "The-PR-Agent/pr-agent",
-      "lang": "Python",
-      "today": "280"
-    },
-    {
-      "rep": "harry0703/MoneyPrinterTurbo",
-      "lang": "Python",
-      "today": "617"
+      "today": "2,071"
     },
     {
       "rep": "garrytan/gstack",
       "lang": "TypeScript",
-      "today": "290"
+      "today": "612"
     },
     {
-      "rep": "FareedKhan-dev/kimi-k3-in-c",
-      "lang": "C",
-      "today": "351"
-    },
-    {
-      "rep": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "lang": "C#",
-      "today": "1,778"
-    },
-    {
-      "rep": "MichaelCade/90DaysOfDevOps",
-      "lang": "Shell",
-      "today": "97"
+      "rep": "Usagi-org/ai-goofish-monitor",
+      "lang": "Python",
+      "today": "240"
     },
     {
       "rep": "D4Vinci/Scrapling",
       "lang": "Python",
-      "today": "2,005"
+      "today": "1,655"
     },
     {
-      "rep": "Thysrael/Horizon",
+      "rep": "vercel-labs/agent-desktop",
+      "lang": "Rust",
+      "today": "2,173"
+    },
+    {
+      "rep": "max-sixty/worktrunk",
+      "lang": "Rust",
+      "today": "546"
+    },
+    {
+      "rep": "lz4/lz4",
+      "lang": "C",
+      "today": "23"
+    },
+    {
+      "rep": "google/skills",
       "lang": "Python",
-      "today": "121"
+      "today": "211"
+    },
+    {
+      "rep": "vercel-labs/agent-browser",
+      "lang": "Rust",
+      "today": "150"
     },
     {
       "rep": "scenario-labs/skills",
       "lang": "Python",
-      "today": "224"
+      "today": "667"
+    },
+    {
+      "rep": "ConardLi/garden-skills",
+      "lang": "JavaScript",
+      "today": "175"
+    },
+    {
+      "rep": "microsoft/VibeVoice",
+      "lang": "Python",
+      "today": "223"
+    },
+    {
+      "rep": "floci-io/floci",
+      "lang": "Java",
+      "today": "779"
+    },
+    {
+      "rep": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "lang": "C#",
+      "today": "984"
     }
   ]
 }
