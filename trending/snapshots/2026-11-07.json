@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-07",
+  "list": [
+    {
+      "rep": "zed-industries/zed",
+      "lang": "Rust",
+      "today": "306"
+    },
+    {
+      "rep": "NVIDIA/auto-ontology",
+      "lang": "Python",
+      "today": "2,015"
+    },
+    {
+      "rep": "rails/rails",
+      "lang": "Ruby",
+      "today": "142"
+    },
+    {
+      "rep": "mpv-player/mpv",
+      "lang": "C",
+      "today": "37"
+    },
+    {
+      "rep": "rust-lang/rust",
+      "lang": "Rust",
+      "today": "192"
+    },
+    {
+      "rep": "react/react",
+      "lang": "JavaScript",
+      "today": "248"
+    },
+    {
+      "rep": "angular/angular",
+      "lang": "TypeScript",
+      "today": "135"
+    },
+    {
+      "rep": "symfony/symfony",
+      "lang": "PHP",
+      "today": "128"
+    },
+    {
+      "rep": "prometheus/prometheus",
+      "lang": "Go",
+      "today": "148"
+    },
+    {
+      "rep": "google/skills",
+      "lang": "Python",
+      "today": "534"
+    },
+    {
+      "rep": "microsoft/vscode",
+      "lang": "TypeScript",
+      "today": "301"
+    },
+    {
+      "rep": "nushell/nushell",
+      "lang": "Rust",
+      "today": "131"
+    },
+    {
+      "rep": "etcd-io/etcd",
+      "lang": "Go",
+      "today": "128"
+    },
+    {
+      "rep": "openssl/openssl",
+      "lang": "C",
+      "today": "26"
+    },
+    {
+      "rep": "mattpocock/skills",
+      "lang": "Shell",
+      "today": "2,070"
+    },
+    {
+      "rep": "cloudflare/security-audit-skill",
+      "lang": "JavaScript",
+      "today": "2,548"
+    },
+    {
+      "rep": "astral-sh/ruff",
+      "lang": "Rust",
+      "today": "169"
+    }
+  ]
+}

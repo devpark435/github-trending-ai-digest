@@ -1,80 +1,90 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "list": [
+    {
+      "rep": "zed-industries/zed",
+      "lang": "Rust",
+      "today": "306"
+    },
     {
       "rep": "NVIDIA/auto-ontology",
       "lang": "Python",
-      "today": "2,679"
+      "today": "2,015"
     },
     {
-      "rep": "mattpocock/skills",
-      "lang": "Shell",
-      "today": "2,071"
+      "rep": "rails/rails",
+      "lang": "Ruby",
+      "today": "142"
     },
     {
-      "rep": "garrytan/gstack",
-      "lang": "TypeScript",
-      "today": "612"
-    },
-    {
-      "rep": "Usagi-org/ai-goofish-monitor",
-      "lang": "Python",
-      "today": "240"
-    },
-    {
-      "rep": "D4Vinci/Scrapling",
-      "lang": "Python",
-      "today": "1,655"
-    },
-    {
-      "rep": "vercel-labs/agent-desktop",
-      "lang": "Rust",
-      "today": "2,173"
-    },
-    {
-      "rep": "max-sixty/worktrunk",
-      "lang": "Rust",
-      "today": "546"
-    },
-    {
-      "rep": "lz4/lz4",
+      "rep": "mpv-player/mpv",
       "lang": "C",
-      "today": "23"
+      "today": "37"
+    },
+    {
+      "rep": "rust-lang/rust",
+      "lang": "Rust",
+      "today": "192"
+    },
+    {
+      "rep": "react/react",
+      "lang": "JavaScript",
+      "today": "248"
+    },
+    {
+      "rep": "angular/angular",
+      "lang": "TypeScript",
+      "today": "135"
+    },
+    {
+      "rep": "symfony/symfony",
+      "lang": "PHP",
+      "today": "128"
+    },
+    {
+      "rep": "prometheus/prometheus",
+      "lang": "Go",
+      "today": "148"
     },
     {
       "rep": "google/skills",
       "lang": "Python",
-      "today": "211"
+      "today": "534"
     },
     {
-      "rep": "vercel-labs/agent-browser",
+      "rep": "microsoft/vscode",
+      "lang": "TypeScript",
+      "today": "301"
+    },
+    {
+      "rep": "nushell/nushell",
       "lang": "Rust",
-      "today": "150"
+      "today": "131"
     },
     {
-      "rep": "scenario-labs/skills",
-      "lang": "Python",
-      "today": "667"
+      "rep": "etcd-io/etcd",
+      "lang": "Go",
+      "today": "128"
     },
     {
-      "rep": "ConardLi/garden-skills",
+      "rep": "openssl/openssl",
+      "lang": "C",
+      "today": "26"
+    },
+    {
+      "rep": "mattpocock/skills",
+      "lang": "Shell",
+      "today": "2,070"
+    },
+    {
+      "rep": "cloudflare/security-audit-skill",
       "lang": "JavaScript",
-      "today": "175"
+      "today": "2,548"
     },
     {
-      "rep": "microsoft/VibeVoice",
-      "lang": "Python",
-      "today": "223"
-    },
-    {
-      "rep": "floci-io/floci",
-      "lang": "Java",
-      "today": "779"
-    },
-    {
-      "rep": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "lang": "C#",
-      "today": "984"
+      "rep": "astral-sh/ruff",
+      "lang": "Rust",
+      "today": "169"
     }
   ]
 }
