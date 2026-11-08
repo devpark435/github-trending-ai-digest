@@ -1,90 +1,80 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "list": [
     {
-      "rep": "zed-industries/zed",
+      "rep": "vercel-labs/agent-browser",
       "lang": "Rust",
-      "today": "306"
-    },
-    {
-      "rep": "NVIDIA/auto-ontology",
-      "lang": "Python",
-      "today": "2,015"
-    },
-    {
-      "rep": "rails/rails",
-      "lang": "Ruby",
-      "today": "142"
-    },
-    {
-      "rep": "mpv-player/mpv",
-      "lang": "C",
-      "today": "37"
-    },
-    {
-      "rep": "rust-lang/rust",
-      "lang": "Rust",
-      "today": "192"
-    },
-    {
-      "rep": "react/react",
-      "lang": "JavaScript",
-      "today": "248"
-    },
-    {
-      "rep": "angular/angular",
-      "lang": "TypeScript",
-      "today": "135"
-    },
-    {
-      "rep": "symfony/symfony",
-      "lang": "PHP",
-      "today": "128"
-    },
-    {
-      "rep": "prometheus/prometheus",
-      "lang": "Go",
-      "today": "148"
-    },
-    {
-      "rep": "google/skills",
-      "lang": "Python",
-      "today": "534"
-    },
-    {
-      "rep": "microsoft/vscode",
-      "lang": "TypeScript",
-      "today": "301"
-    },
-    {
-      "rep": "nushell/nushell",
-      "lang": "Rust",
-      "today": "131"
-    },
-    {
-      "rep": "etcd-io/etcd",
-      "lang": "Go",
-      "today": "128"
-    },
-    {
-      "rep": "openssl/openssl",
-      "lang": "C",
-      "today": "26"
-    },
-    {
-      "rep": "mattpocock/skills",
-      "lang": "Shell",
-      "today": "2,070"
+      "today": "190"
     },
     {
       "rep": "cloudflare/security-audit-skill",
       "lang": "JavaScript",
-      "today": "2,548"
+      "today": "2,085"
+    },
+    {
+      "rep": "google/skills",
+      "lang": "Python",
+      "today": "443"
+    },
+    {
+      "rep": "mattpocock/skills",
+      "lang": "Shell",
+      "today": "1,100"
+    },
+    {
+      "rep": "anthropics/skills",
+      "lang": "Python",
+      "today": "390"
+    },
+    {
+      "rep": "meta/astryx",
+      "lang": "TypeScript",
+      "today": "96"
+    },
+    {
+      "rep": "prometheus/prometheus",
+      "lang": "Go",
+      "today": "322"
+    },
+    {
+      "rep": "sherlock-project/sherlock",
+      "lang": "Python",
+      "today": "1,766"
+    },
+    {
+      "rep": "milind-soni/OpenMausBot",
+      "lang": "TypeScript",
+      "today": "1,955"
     },
     {
       "rep": "astral-sh/ruff",
       "lang": "Rust",
-      "today": "169"
+      "today": "350"
+    },
+    {
+      "rep": "tailwindlabs/tailwindcss",
+      "lang": "TypeScript",
+      "today": "122"
+    },
+    {
+      "rep": "mbillow/localthings",
+      "lang": "Python",
+      "today": "186"
+    },
+    {
+      "rep": "zed-industries/zed",
+      "lang": "Rust",
+      "today": "1,114"
+    },
+    {
+      "rep": "ranxianglei/billion-context",
+      "lang": "TypeScript",
+      "today": "191"
+    },
+    {
+      "rep": "dsx-ai-factory/nvke",
+      "lang": "Go",
+      "today": "123"
     }
   ]
 }
