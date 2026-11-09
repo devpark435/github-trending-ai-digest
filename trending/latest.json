@@ -1,80 +1,50 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "list": [
-    {
-      "rep": "vercel-labs/agent-browser",
-      "lang": "Rust",
-      "today": "190"
-    },
-    {
-      "rep": "cloudflare/security-audit-skill",
-      "lang": "JavaScript",
-      "today": "2,085"
-    },
-    {
-      "rep": "google/skills",
-      "lang": "Python",
-      "today": "443"
-    },
-    {
-      "rep": "mattpocock/skills",
-      "lang": "Shell",
-      "today": "1,100"
-    },
-    {
-      "rep": "anthropics/skills",
-      "lang": "Python",
-      "today": "390"
-    },
-    {
-      "rep": "meta/astryx",
-      "lang": "TypeScript",
-      "today": "96"
-    },
-    {
-      "rep": "prometheus/prometheus",
-      "lang": "Go",
-      "today": "322"
-    },
     {
       "rep": "sherlock-project/sherlock",
       "lang": "Python",
-      "today": "1,766"
-    },
-    {
-      "rep": "milind-soni/OpenMausBot",
-      "lang": "TypeScript",
-      "today": "1,955"
-    },
-    {
-      "rep": "astral-sh/ruff",
-      "lang": "Rust",
-      "today": "350"
-    },
-    {
-      "rep": "tailwindlabs/tailwindcss",
-      "lang": "TypeScript",
-      "today": "122"
-    },
-    {
-      "rep": "mbillow/localthings",
-      "lang": "Python",
-      "today": "186"
-    },
-    {
-      "rep": "zed-industries/zed",
-      "lang": "Rust",
-      "today": "1,114"
-    },
-    {
-      "rep": "ranxianglei/billion-context",
-      "lang": "TypeScript",
-      "today": "191"
+      "today": "2,373"
     },
     {
       "rep": "dsx-ai-factory/nvke",
       "lang": "Go",
-      "today": "123"
+      "today": "345"
+    },
+    {
+      "rep": "milind-soni/OpenMausBot",
+      "lang": "TypeScript",
+      "today": "1,439"
+    },
+    {
+      "rep": "anthropics/claude-quickstarts",
+      "lang": "Python",
+      "today": "32"
+    },
+    {
+      "rep": "vercel-labs/agent-browser",
+      "lang": "Rust",
+      "today": "815"
+    },
+    {
+      "rep": "meta/astryx",
+      "lang": "TypeScript",
+      "today": "875"
+    },
+    {
+      "rep": "anthropics/skills",
+      "lang": "Python",
+      "today": "792"
+    },
+    {
+      "rep": "google-deepmind/mujoco",
+      "lang": "C++",
+      "today": "41"
+    },
+    {
+      "rep": "ranxianglei/billion-context",
+      "lang": "TypeScript",
+      "today": "460"
     }
   ]
 }
