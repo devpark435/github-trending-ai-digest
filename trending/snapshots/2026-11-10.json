@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-10",
+  "list": [
+    {
+      "rep": "anthropics/skills",
+      "lang": "Python",
+      "today": "1,038"
+    },
+    {
+      "rep": "meta/astryx",
+      "lang": "TypeScript",
+      "today": "3,278"
+    },
+    {
+      "rep": "sherlock-project/sherlock",
+      "lang": "Python",
+      "today": "4,267"
+    },
+    {
+      "rep": "google-deepmind/mujoco",
+      "lang": "C++",
+      "today": "574"
+    },
+    {
+      "rep": "anthropics/claude-quickstarts",
+      "lang": "Python",
+      "today": "551"
+    },
+    {
+      "rep": "garrytan/gbrain",
+      "lang": "TypeScript",
+      "today": "216"
+    },
+    {
+      "rep": "vercel-labs/agent-browser",
+      "lang": "Rust",
+      "today": "916"
+    },
+    {
+      "rep": "ruvnet/RuView",
+      "lang": "Rust",
+      "today": "172"
+    },
+    {
+      "rep": "ZhuLinsen/daily_stock_analysis",
+      "lang": "Python",
+      "today": "506"
+    },
+    {
+      "rep": "homeassistant-ai/ha-mcp",
+      "lang": "Python",
+      "today": "31"
+    },
+    {
+      "rep": "milind-soni/OpenMausBot",
+      "lang": "TypeScript",
+      "today": "1,587"
+    }
+  ]
+}
