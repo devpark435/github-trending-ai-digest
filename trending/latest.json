@@ -1,60 +1,65 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "list": [
-    {
-      "rep": "anthropics/skills",
-      "lang": "Python",
-      "today": "1,038"
-    },
     {
       "rep": "meta/astryx",
       "lang": "TypeScript",
-      "today": "3,278"
+      "today": "3,108"
     },
     {
-      "rep": "sherlock-project/sherlock",
+      "rep": "anthropics/skills",
       "lang": "Python",
-      "today": "4,267"
+      "today": "1,679"
     },
     {
-      "rep": "google-deepmind/mujoco",
-      "lang": "C++",
-      "today": "574"
+      "rep": "addyosmani/agent-skills",
+      "lang": "JavaScript",
+      "today": "465"
     },
     {
       "rep": "anthropics/claude-quickstarts",
       "lang": "Python",
-      "today": "551"
+      "today": "531"
     },
     {
-      "rep": "garrytan/gbrain",
-      "lang": "TypeScript",
-      "today": "216"
+      "rep": "google-deepmind/mujoco",
+      "lang": "C++",
+      "today": "456"
     },
     {
-      "rep": "vercel-labs/agent-browser",
-      "lang": "Rust",
-      "today": "916"
-    },
-    {
-      "rep": "ruvnet/RuView",
-      "lang": "Rust",
-      "today": "172"
-    },
-    {
-      "rep": "ZhuLinsen/daily_stock_analysis",
-      "lang": "Python",
-      "today": "506"
+      "rep": "we-promise/sure",
+      "lang": "Ruby",
+      "today": "159"
     },
     {
       "rep": "homeassistant-ai/ha-mcp",
       "lang": "Python",
-      "today": "31"
+      "today": "790"
     },
     {
-      "rep": "milind-soni/OpenMausBot",
+      "rep": "vercel-labs/agent-browser",
+      "lang": "Rust",
+      "today": "780"
+    },
+    {
+      "rep": "sherlock-project/sherlock",
+      "lang": "Python",
+      "today": "2,393"
+    },
+    {
+      "rep": "tokio-rs/topcoat",
+      "lang": "Rust",
+      "today": "192"
+    },
+    {
+      "rep": "ranxianglei/billion-context",
       "lang": "TypeScript",
-      "today": "1,587"
+      "today": "375"
+    },
+    {
+      "rep": "mattpocock/skills",
+      "lang": "Shell",
+      "today": "1,225"
     }
   ]
 }
