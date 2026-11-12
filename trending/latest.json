@@ -1,65 +1,55 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "list": [
     {
       "rep": "meta/astryx",
       "lang": "TypeScript",
-      "today": "3,108"
+      "today": "2,776"
     },
     {
-      "rep": "anthropics/skills",
+      "rep": "ZhuLinsen/daily_stock_analysis",
       "lang": "Python",
-      "today": "1,679"
+      "today": "278"
+    },
+    {
+      "rep": "GoogleChrome/modern-web-guidance-src",
+      "lang": "TypeScript",
+      "today": "159"
+    },
+    {
+      "rep": "shadcn/improve",
+      "lang": "",
+      "today": "361"
     },
     {
       "rep": "addyosmani/agent-skills",
       "lang": "JavaScript",
-      "today": "465"
-    },
-    {
-      "rep": "anthropics/claude-quickstarts",
-      "lang": "Python",
-      "today": "531"
-    },
-    {
-      "rep": "google-deepmind/mujoco",
-      "lang": "C++",
-      "today": "456"
-    },
-    {
-      "rep": "we-promise/sure",
-      "lang": "Ruby",
-      "today": "159"
-    },
-    {
-      "rep": "homeassistant-ai/ha-mcp",
-      "lang": "Python",
-      "today": "790"
+      "today": "787"
     },
     {
       "rep": "vercel-labs/agent-browser",
       "lang": "Rust",
-      "today": "780"
+      "today": "708"
     },
     {
-      "rep": "sherlock-project/sherlock",
+      "rep": "we-promise/sure",
+      "lang": "Ruby",
+      "today": "1,078"
+    },
+    {
+      "rep": "homeassistant-ai/ha-mcp",
       "lang": "Python",
-      "today": "2,393"
+      "today": "645"
     },
     {
-      "rep": "tokio-rs/topcoat",
-      "lang": "Rust",
-      "today": "192"
-    },
-    {
-      "rep": "ranxianglei/billion-context",
+      "rep": "openai/codex-security",
       "lang": "TypeScript",
-      "today": "375"
+      "today": "52"
     },
     {
-      "rep": "mattpocock/skills",
-      "lang": "Shell",
-      "today": "1,225"
+      "rep": "TheAlgorithms/Java",
+      "lang": "Java",
+      "today": "51"
     }
   ]
 }
