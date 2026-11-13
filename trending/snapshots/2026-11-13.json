@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-13",
+  "list": [
+    {
+      "rep": "GoogleChrome/modern-web-guidance-src",
+      "lang": "TypeScript",
+      "today": "739"
+    },
+    {
+      "rep": "openai/codex-security",
+      "lang": "TypeScript",
+      "today": "643"
+    },
+    {
+      "rep": "nvm-sh/nvm",
+      "lang": "Shell",
+      "today": "63"
+    },
+    {
+      "rep": "pookjw/HermesEnabler",
+      "lang": "Objective-C",
+      "today": "218"
+    },
+    {
+      "rep": "we-promise/sure",
+      "lang": "Ruby",
+      "today": "967"
+    },
+    {
+      "rep": "QwenLM/qwen-code",
+      "lang": "TypeScript",
+      "today": "151"
+    },
+    {
+      "rep": "ashhart/TensorFold",
+      "lang": "Zig",
+      "today": "54"
+    },
+    {
+      "rep": "nodejs/node",
+      "lang": "JavaScript",
+      "today": "62"
+    },
+    {
+      "rep": "addyosmani/agent-skills",
+      "lang": "JavaScript",
+      "today": "816"
+    },
+    {
+      "rep": "meta/astryx",
+      "lang": "TypeScript",
+      "today": "1,830"
+    },
+    {
+      "rep": "CopilotKit/OpenBot",
+      "lang": "TypeScript",
+      "today": "298"
+    },
+    {
+      "rep": "Alishahryar1/free-claude-code",
+      "lang": "Python",
+      "today": "415"
+    },
+    {
+      "rep": "ggml-org/llama.cpp",
+      "lang": "C++",
+      "today": "176"
+    }
+  ]
+}

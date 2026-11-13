@@ -1,55 +1,70 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "list": [
-    {
-      "rep": "meta/astryx",
-      "lang": "TypeScript",
-      "today": "2,776"
-    },
-    {
-      "rep": "ZhuLinsen/daily_stock_analysis",
-      "lang": "Python",
-      "today": "278"
-    },
     {
       "rep": "GoogleChrome/modern-web-guidance-src",
       "lang": "TypeScript",
-      "today": "159"
-    },
-    {
-      "rep": "shadcn/improve",
-      "lang": "",
-      "today": "361"
-    },
-    {
-      "rep": "addyosmani/agent-skills",
-      "lang": "JavaScript",
-      "today": "787"
-    },
-    {
-      "rep": "vercel-labs/agent-browser",
-      "lang": "Rust",
-      "today": "708"
-    },
-    {
-      "rep": "we-promise/sure",
-      "lang": "Ruby",
-      "today": "1,078"
-    },
-    {
-      "rep": "homeassistant-ai/ha-mcp",
-      "lang": "Python",
-      "today": "645"
+      "today": "739"
     },
     {
       "rep": "openai/codex-security",
       "lang": "TypeScript",
-      "today": "52"
+      "today": "643"
     },
     {
-      "rep": "TheAlgorithms/Java",
-      "lang": "Java",
-      "today": "51"
+      "rep": "nvm-sh/nvm",
+      "lang": "Shell",
+      "today": "63"
+    },
+    {
+      "rep": "pookjw/HermesEnabler",
+      "lang": "Objective-C",
+      "today": "218"
+    },
+    {
+      "rep": "we-promise/sure",
+      "lang": "Ruby",
+      "today": "967"
+    },
+    {
+      "rep": "QwenLM/qwen-code",
+      "lang": "TypeScript",
+      "today": "151"
+    },
+    {
+      "rep": "ashhart/TensorFold",
+      "lang": "Zig",
+      "today": "54"
+    },
+    {
+      "rep": "nodejs/node",
+      "lang": "JavaScript",
+      "today": "62"
+    },
+    {
+      "rep": "addyosmani/agent-skills",
+      "lang": "JavaScript",
+      "today": "816"
+    },
+    {
+      "rep": "meta/astryx",
+      "lang": "TypeScript",
+      "today": "1,830"
+    },
+    {
+      "rep": "CopilotKit/OpenBot",
+      "lang": "TypeScript",
+      "today": "298"
+    },
+    {
+      "rep": "Alishahryar1/free-claude-code",
+      "lang": "Python",
+      "today": "415"
+    },
+    {
+      "rep": "ggml-org/llama.cpp",
+      "lang": "C++",
+      "today": "176"
     }
   ]
 }
