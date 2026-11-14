@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-14",
+  "list": [
+    {
+      "rep": "alibaba/open-code-review",
+      "lang": "Go",
+      "today": "215"
+    },
+    {
+      "rep": "GoogleChrome/modern-web-guidance-src",
+      "lang": "TypeScript",
+      "today": "1,925"
+    },
+    {
+      "rep": "openai/codex-security",
+      "lang": "TypeScript",
+      "today": "751"
+    },
+    {
+      "rep": "ZhuLinsen/daily_stock_analysis",
+      "lang": "Python",
+      "today": "256"
+    },
+    {
+      "rep": "we-promise/sure",
+      "lang": "Ruby",
+      "today": "925"
+    },
+    {
+      "rep": "backnotprop/plannotator",
+      "lang": "TypeScript",
+      "today": "108"
+    },
+    {
+      "rep": "louislam/uptime-kuma",
+      "lang": "JavaScript",
+      "today": "71"
+    },
+    {
+      "rep": "block/buzz",
+      "lang": "Rust",
+      "today": "97"
+    },
+    {
+      "rep": "tradermonty/claude-trading-skills",
+      "lang": "Python",
+      "today": "69"
+    },
+    {
+      "rep": "tailscale/tailcat",
+      "lang": "Go",
+      "today": "256"
+    },
+    {
+      "rep": "Likely7/Veyra-NRVideo",
+      "lang": "C++",
+      "today": "256"
+    },
+    {
+      "rep": "ChromeDevTools/chrome-devtools-mcp",
+      "lang": "TypeScript",
+      "today": "67"
+    }
+  ]
+}
