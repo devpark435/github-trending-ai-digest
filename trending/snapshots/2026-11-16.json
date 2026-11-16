@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-16",
+  "list": [
+    {
+      "rep": "dream-num/univer",
+      "lang": "TypeScript",
+      "today": "988"
+    },
+    {
+      "rep": "ag-ui-protocol/ag-ui",
+      "lang": "TypeScript",
+      "today": "355"
+    },
+    {
+      "rep": "google-labs-code/stitch-skills",
+      "lang": "TypeScript",
+      "today": "247"
+    },
+    {
+      "rep": "backnotprop/plannotator",
+      "lang": "TypeScript",
+      "today": "866"
+    },
+    {
+      "rep": "ChromeDevTools/chrome-devtools-mcp",
+      "lang": "TypeScript",
+      "today": "717"
+    },
+    {
+      "rep": "alibaba/open-code-review",
+      "lang": "Go",
+      "today": "691"
+    },
+    {
+      "rep": "Tencent/LoopForge",
+      "lang": "Go",
+      "today": "423"
+    },
+    {
+      "rep": "ggml-org/ggml",
+      "lang": "C++",
+      "today": "43"
+    },
+    {
+      "rep": "elementalsouls/Claude-BugHunter",
+      "lang": "Python",
+      "today": "98"
+    },
+    {
+      "rep": "GoogleChrome/modern-web-guidance-src",
+      "lang": "TypeScript",
+      "today": "1,219"
+    },
+    {
+      "rep": "tradermonty/claude-trading-skills",
+      "lang": "Python",
+      "today": "706"
+    },
+    {
+      "rep": "NVIDIA/SkillEvaluator",
+      "lang": "Python",
+      "today": "122"
+    }
+  ]
+}
