@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-17",
+  "list": [
+    {
+      "rep": "ag-ui-protocol/ag-ui",
+      "lang": "TypeScript",
+      "today": "791"
+    },
+    {
+      "rep": "backnotprop/plannotator",
+      "lang": "TypeScript",
+      "today": "696"
+    },
+    {
+      "rep": "dream-num/univer",
+      "lang": "TypeScript",
+      "today": "1,828"
+    },
+    {
+      "rep": "tradermonty/claude-trading-skills",
+      "lang": "Python",
+      "today": "837"
+    },
+    {
+      "rep": "elementalsouls/Claude-BugHunter",
+      "lang": "Python",
+      "today": "1,094"
+    },
+    {
+      "rep": "getarcaneapp/arcane",
+      "lang": "Go",
+      "today": "46"
+    },
+    {
+      "rep": "DeanChensj/jiangshan-map",
+      "lang": "JavaScript",
+      "today": "288"
+    },
+    {
+      "rep": "google-labs-code/stitch-skills",
+      "lang": "TypeScript",
+      "today": "529"
+    },
+    {
+      "rep": "mvanhorn/last30days-skill",
+      "lang": "Python",
+      "today": "135"
+    },
+    {
+      "rep": "NVIDIA/SkillEvaluator",
+      "lang": "Python",
+      "today": "873"
+    },
+    {
+      "rep": "alibaba/open-code-review",
+      "lang": "Go",
+      "today": "951"
+    },
+    {
+      "rep": "google-research/paper-orchestra",
+      "lang": "Python",
+      "today": "313"
+    },
+    {
+      "rep": "ChromeDevTools/chrome-devtools-mcp",
+      "lang": "TypeScript",
+      "today": "841"
+    },
+    {
+      "rep": "sveltejs/svelte",
+      "lang": "JavaScript",
+      "today": "115"
+    },
+    {
+      "rep": "kajisho5/ffmpeg-skill",
+      "lang": "Python",
+      "today": "367"
+    }
+  ]
+}
