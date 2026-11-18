@@ -1,80 +1,80 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "list": [
-    {
-      "rep": "ag-ui-protocol/ag-ui",
-      "lang": "TypeScript",
-      "today": "791"
-    },
-    {
-      "rep": "backnotprop/plannotator",
-      "lang": "TypeScript",
-      "today": "696"
-    },
-    {
-      "rep": "dream-num/univer",
-      "lang": "TypeScript",
-      "today": "1,828"
-    },
-    {
-      "rep": "tradermonty/claude-trading-skills",
-      "lang": "Python",
-      "today": "837"
-    },
     {
       "rep": "elementalsouls/Claude-BugHunter",
       "lang": "Python",
-      "today": "1,094"
-    },
-    {
-      "rep": "getarcaneapp/arcane",
-      "lang": "Go",
-      "today": "46"
-    },
-    {
-      "rep": "DeanChensj/jiangshan-map",
-      "lang": "JavaScript",
-      "today": "288"
-    },
-    {
-      "rep": "google-labs-code/stitch-skills",
-      "lang": "TypeScript",
-      "today": "529"
+      "today": "1,005"
     },
     {
       "rep": "mvanhorn/last30days-skill",
       "lang": "Python",
-      "today": "135"
-    },
-    {
-      "rep": "NVIDIA/SkillEvaluator",
-      "lang": "Python",
-      "today": "873"
+      "today": "696"
     },
     {
       "rep": "alibaba/open-code-review",
       "lang": "Go",
-      "today": "951"
+      "today": "763"
     },
     {
-      "rep": "google-research/paper-orchestra",
-      "lang": "Python",
-      "today": "313"
+      "rep": "Tencent/LoopForge",
+      "lang": "Go",
+      "today": "591"
     },
     {
-      "rep": "ChromeDevTools/chrome-devtools-mcp",
+      "rep": "dream-num/univer",
       "lang": "TypeScript",
-      "today": "841"
+      "today": "1,774"
+    },
+    {
+      "rep": "getarcaneapp/arcane",
+      "lang": "Go",
+      "today": "618"
+    },
+    {
+      "rep": "google-labs-code/stitch-skills",
+      "lang": "TypeScript",
+      "today": "350"
+    },
+    {
+      "rep": "cursor/plugins",
+      "lang": "TypeScript",
+      "today": "201"
+    },
+    {
+      "rep": "obra/superpowers",
+      "lang": "Shell",
+      "today": "1,917"
+    },
+    {
+      "rep": "ag-ui-protocol/ag-ui",
+      "lang": "TypeScript",
+      "today": "1,445"
+    },
+    {
+      "rep": "backnotprop/plannotator",
+      "lang": "TypeScript",
+      "today": "691"
     },
     {
       "rep": "sveltejs/svelte",
       "lang": "JavaScript",
-      "today": "115"
+      "today": "477"
     },
     {
-      "rep": "kajisho5/ffmpeg-skill",
+      "rep": "affaan-m/ECC",
+      "lang": "JavaScript",
+      "today": "883"
+    },
+    {
+      "rep": "jingyaogong/minimind",
       "lang": "Python",
-      "today": "367"
+      "today": "192"
+    },
+    {
+      "rep": "google-research/paper-orchestra",
+      "lang": "Python",
+      "today": "1,072"
     }
   ]
 }
