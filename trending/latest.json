@@ -1,80 +1,100 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "list": [
     {
-      "rep": "elementalsouls/Claude-BugHunter",
+      "rep": "cursor/plugins",
+      "lang": "TypeScript",
+      "today": "314"
+    },
+    {
+      "rep": "HKUDS/CLI-Anything",
       "lang": "Python",
-      "today": "1,005"
+      "today": "389"
     },
     {
       "rep": "mvanhorn/last30days-skill",
       "lang": "Python",
-      "today": "696"
-    },
-    {
-      "rep": "alibaba/open-code-review",
-      "lang": "Go",
-      "today": "763"
-    },
-    {
-      "rep": "Tencent/LoopForge",
-      "lang": "Go",
-      "today": "591"
-    },
-    {
-      "rep": "dream-num/univer",
-      "lang": "TypeScript",
-      "today": "1,774"
+      "today": "1,059"
     },
     {
       "rep": "getarcaneapp/arcane",
       "lang": "Go",
-      "today": "618"
+      "today": "547"
     },
     {
-      "rep": "google-labs-code/stitch-skills",
-      "lang": "TypeScript",
-      "today": "350"
-    },
-    {
-      "rep": "cursor/plugins",
-      "lang": "TypeScript",
-      "today": "201"
-    },
-    {
-      "rep": "obra/superpowers",
-      "lang": "Shell",
-      "today": "1,917"
-    },
-    {
-      "rep": "ag-ui-protocol/ag-ui",
-      "lang": "TypeScript",
-      "today": "1,445"
-    },
-    {
-      "rep": "backnotprop/plannotator",
-      "lang": "TypeScript",
-      "today": "691"
-    },
-    {
-      "rep": "sveltejs/svelte",
-      "lang": "JavaScript",
-      "today": "477"
-    },
-    {
-      "rep": "affaan-m/ECC",
-      "lang": "JavaScript",
-      "today": "883"
-    },
-    {
-      "rep": "jingyaogong/minimind",
+      "rep": "NVIDIA/SkillEvaluator",
       "lang": "Python",
-      "today": "192"
+      "today": "312"
+    },
+    {
+      "rep": "nvm-sh/nvm",
+      "lang": "Shell",
+      "today": "237"
+    },
+    {
+      "rep": "astral-sh/uv",
+      "lang": "Rust",
+      "today": "258"
     },
     {
       "rep": "google-research/paper-orchestra",
       "lang": "Python",
-      "today": "1,072"
+      "today": "1,524"
+    },
+    {
+      "rep": "google-labs-code/stitch-skills",
+      "lang": "TypeScript",
+      "today": "365"
+    },
+    {
+      "rep": "sveltejs/svelte",
+      "lang": "JavaScript",
+      "today": "692"
+    },
+    {
+      "rep": "jquery/jquery",
+      "lang": "JavaScript",
+      "today": "266"
+    },
+    {
+      "rep": "appwrite/appwrite",
+      "lang": "TypeScript",
+      "today": "232"
+    },
+    {
+      "rep": "openvinotoolkit/openvino",
+      "lang": "C++",
+      "today": "24"
+    },
+    {
+      "rep": "obra/superpowers",
+      "lang": "Shell",
+      "today": "822"
+    },
+    {
+      "rep": "affaan-m/ECC",
+      "lang": "JavaScript",
+      "today": "1,108"
+    },
+    {
+      "rep": "DeanChensj/jiangshan-map",
+      "lang": "JavaScript",
+      "today": "218"
+    },
+    {
+      "rep": "n8n-io/n8n",
+      "lang": "TypeScript",
+      "today": "325"
+    },
+    {
+      "rep": "solidjs/solid",
+      "lang": "TypeScript",
+      "today": "40"
+    },
+    {
+      "rep": "punkpeye/awesome-mcp-servers",
+      "lang": "",
+      "today": "53"
     }
   ]
 }
