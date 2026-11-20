@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-20",
+  "list": [
+    {
+      "rep": "elementalsouls/Claude-BugHunter",
+      "lang": "Python",
+      "today": "1,349"
+    },
+    {
+      "rep": "obra/superpowers",
+      "lang": "Shell",
+      "today": "2,028"
+    },
+    {
+      "rep": "HKUDS/CLI-Anything",
+      "lang": "Python",
+      "today": "898"
+    },
+    {
+      "rep": "jingyaogong/minimind",
+      "lang": "Python",
+      "today": "238"
+    },
+    {
+      "rep": "cursor/plugins",
+      "lang": "TypeScript",
+      "today": "384"
+    },
+    {
+      "rep": "firecrawl/firecrawl",
+      "lang": "TypeScript",
+      "today": "825"
+    },
+    {
+      "rep": "nginx/nginx",
+      "lang": "C",
+      "today": "73"
+    },
+    {
+      "rep": "openvinotoolkit/openvino",
+      "lang": "C++",
+      "today": "246"
+    },
+    {
+      "rep": "cathrynlavery/diagram-design",
+      "lang": "HTML",
+      "today": "271"
+    },
+    {
+      "rep": "mvanhorn/last30days-skill",
+      "lang": "Python",
+      "today": "954"
+    },
+    {
+      "rep": "google-labs-code/stitch-skills",
+      "lang": "TypeScript",
+      "today": "302"
+    },
+    {
+      "rep": "mjmirza/app-store-compliance",
+      "lang": "Shell",
+      "today": "377"
+    },
+    {
+      "rep": "Tracer-Cloud/opensre",
+      "lang": "Python",
+      "today": "38"
+    },
+    {
+      "rep": "toeverything/AFFiNE",
+      "lang": "TypeScript",
+      "today": "182"
+    },
+    {
+      "rep": "XiaoYouChR/Ghost-Downloader-3",
+      "lang": "Python",
+      "today": "341"
+    },
+    {
+      "rep": "zhouxiaoka/autoclip",
+      "lang": "Python",
+      "today": "126"
+    }
+  ]
+}

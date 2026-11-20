@@ -1,100 +1,85 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "list": [
     {
-      "rep": "cursor/plugins",
-      "lang": "TypeScript",
-      "today": "314"
-    },
-    {
-      "rep": "HKUDS/CLI-Anything",
+      "rep": "elementalsouls/Claude-BugHunter",
       "lang": "Python",
-      "today": "389"
-    },
-    {
-      "rep": "mvanhorn/last30days-skill",
-      "lang": "Python",
-      "today": "1,059"
-    },
-    {
-      "rep": "getarcaneapp/arcane",
-      "lang": "Go",
-      "today": "547"
-    },
-    {
-      "rep": "NVIDIA/SkillEvaluator",
-      "lang": "Python",
-      "today": "312"
-    },
-    {
-      "rep": "nvm-sh/nvm",
-      "lang": "Shell",
-      "today": "237"
-    },
-    {
-      "rep": "astral-sh/uv",
-      "lang": "Rust",
-      "today": "258"
-    },
-    {
-      "rep": "google-research/paper-orchestra",
-      "lang": "Python",
-      "today": "1,524"
-    },
-    {
-      "rep": "google-labs-code/stitch-skills",
-      "lang": "TypeScript",
-      "today": "365"
-    },
-    {
-      "rep": "sveltejs/svelte",
-      "lang": "JavaScript",
-      "today": "692"
-    },
-    {
-      "rep": "jquery/jquery",
-      "lang": "JavaScript",
-      "today": "266"
-    },
-    {
-      "rep": "appwrite/appwrite",
-      "lang": "TypeScript",
-      "today": "232"
-    },
-    {
-      "rep": "openvinotoolkit/openvino",
-      "lang": "C++",
-      "today": "24"
+      "today": "1,349"
     },
     {
       "rep": "obra/superpowers",
       "lang": "Shell",
-      "today": "822"
+      "today": "2,028"
     },
     {
-      "rep": "affaan-m/ECC",
-      "lang": "JavaScript",
-      "today": "1,108"
+      "rep": "HKUDS/CLI-Anything",
+      "lang": "Python",
+      "today": "898"
     },
     {
-      "rep": "DeanChensj/jiangshan-map",
-      "lang": "JavaScript",
-      "today": "218"
+      "rep": "jingyaogong/minimind",
+      "lang": "Python",
+      "today": "238"
     },
     {
-      "rep": "n8n-io/n8n",
+      "rep": "cursor/plugins",
       "lang": "TypeScript",
-      "today": "325"
+      "today": "384"
     },
     {
-      "rep": "solidjs/solid",
+      "rep": "firecrawl/firecrawl",
       "lang": "TypeScript",
-      "today": "40"
+      "today": "825"
     },
     {
-      "rep": "punkpeye/awesome-mcp-servers",
-      "lang": "",
-      "today": "53"
+      "rep": "nginx/nginx",
+      "lang": "C",
+      "today": "73"
+    },
+    {
+      "rep": "openvinotoolkit/openvino",
+      "lang": "C++",
+      "today": "246"
+    },
+    {
+      "rep": "cathrynlavery/diagram-design",
+      "lang": "HTML",
+      "today": "271"
+    },
+    {
+      "rep": "mvanhorn/last30days-skill",
+      "lang": "Python",
+      "today": "954"
+    },
+    {
+      "rep": "google-labs-code/stitch-skills",
+      "lang": "TypeScript",
+      "today": "302"
+    },
+    {
+      "rep": "mjmirza/app-store-compliance",
+      "lang": "Shell",
+      "today": "377"
+    },
+    {
+      "rep": "Tracer-Cloud/opensre",
+      "lang": "Python",
+      "today": "38"
+    },
+    {
+      "rep": "toeverything/AFFiNE",
+      "lang": "TypeScript",
+      "today": "182"
+    },
+    {
+      "rep": "XiaoYouChR/Ghost-Downloader-3",
+      "lang": "Python",
+      "today": "341"
+    },
+    {
+      "rep": "zhouxiaoka/autoclip",
+      "lang": "Python",
+      "today": "126"
     }
   ]
 }
