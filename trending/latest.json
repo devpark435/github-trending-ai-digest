@@ -1,85 +1,85 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "list": [
     {
       "rep": "elementalsouls/Claude-BugHunter",
       "lang": "Python",
-      "today": "2,029"
+      "today": "1,826"
     },
     {
       "rep": "obra/superpowers",
       "lang": "Shell",
-      "today": "840"
+      "today": "1,003"
     },
     {
       "rep": "HKUDS/CLI-Anything",
       "lang": "Python",
-      "today": "790"
+      "today": "1,074"
     },
     {
       "rep": "jingyaogong/minimind",
       "lang": "Python",
-      "today": "828"
+      "today": "727"
     },
     {
       "rep": "cursor/plugins",
       "lang": "TypeScript",
-      "today": "397"
+      "today": "360"
     },
     {
       "rep": "firecrawl/firecrawl",
       "lang": "TypeScript",
-      "today": "924"
+      "today": "991"
     },
     {
       "rep": "nginx/nginx",
       "lang": "C",
-      "today": "174"
+      "today": "158"
     },
     {
       "rep": "openvinotoolkit/openvino",
       "lang": "C++",
-      "today": "184"
+      "today": "185"
     },
     {
       "rep": "cathrynlavery/diagram-design",
       "lang": "HTML",
-      "today": "620"
+      "today": "802"
     },
     {
       "rep": "mvanhorn/last30days-skill",
       "lang": "Python",
-      "today": "797"
+      "today": "703"
     },
     {
       "rep": "google-labs-code/stitch-skills",
       "lang": "TypeScript",
-      "today": "422"
+      "today": "403"
     },
     {
       "rep": "mjmirza/app-store-compliance",
       "lang": "Shell",
-      "today": "761"
+      "today": "928"
     },
     {
       "rep": "Tracer-Cloud/opensre",
       "lang": "Python",
-      "today": "436"
+      "today": "398"
     },
     {
       "rep": "toeverything/AFFiNE",
       "lang": "TypeScript",
-      "today": "595"
+      "today": "584"
     },
     {
       "rep": "XiaoYouChR/Ghost-Downloader-3",
       "lang": "Python",
-      "today": "1,087"
+      "today": "1,092"
     },
     {
       "rep": "zhouxiaoka/autoclip",
       "lang": "Python",
-      "today": "907"
+      "today": "980"
     }
   ]
 }
